@@ -1,0 +1,47 @@
+---
+title: "Data Exploration and Cleaning"
+author: "Kaiju Morquecho"
+output: html_document
+---
+
+```{r message=FALSE}
+library(tidyverse)
+library(dplyr)
+library(here)
+library(janitor)
+library(lubridate)
+```
+
+Read in Data 
+
+```{r message=FALSE}
+asthma_emergencies <- read_csv(here("data","annual_asthma_emergencies_by_county_2020_2021_2022.csv")) %>%
+  clean_names() %>%
+  select(-data_comment, -x8)
+
+annual_county_aqi_2020 <- read_csv(here("data","annual_aqi_by_county_2020.csv")) %>%
+  clean_names()
+
+annual_county_aqi_2021 <- read_csv(here("data","annual_aqi_by_county_2021.csv")) %>%
+  clean_names()
+
+annual_county_aqi_2022 <- read_csv(here("data","annual_aqi_by_county_2022.csv")) %>%
+  clean_names()
+
+```
+
+```{r}
+# bind all 3 years into one df
+annual_aqi <- bind_rows(
+  annual_county_aqi_2020,
+  annual_county_aqi_2021,
+  annual_county_aqi_2022
+)
+```
+
+```{r}
+# join asthma with aqi df
+asthma_aqi <- right_join(annual_aqi,asthma_emergencies, by = c("county","year","state"))
+
+```
+

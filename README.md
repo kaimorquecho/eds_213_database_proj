@@ -4,7 +4,6 @@ This project explores the relationship between air quality and asthma-related em
 
 ![CDC's AQI Index diagram](images/aqi_scale.png)
 
-
 ### Data Sources
 
 -   **EPA Outdoor Air Quality Data**\
@@ -29,7 +28,6 @@ This project explores the relationship between air quality and asthma-related em
 -   Analysis conducted with SQL queries in VS Code
 -   Key query: identifying counties with the highest asthma ER visits and comparing them to peak AQI levels during wildfire-heavy years
 
-
 ### File and Database Structure
 
 This repository contains all scripts, data, and resources used to create a asthma-AQI database and explore the relationship between air quality and asthma emergency room visits in U.S. counties from 2020–2022. The repository was developed for the course **EDS 213: Data Management** at **UC Santa Barbara**.
@@ -38,7 +36,7 @@ This repository contains all scripts, data, and resources used to create a asthm
 
 #### Files
 
-```
+```         
 ├── .gitignore
 ├── .Rprofile
 ├── create-database-asthma-emergencies.sql     # SQL schema and data loading script
@@ -78,7 +76,7 @@ Master of Environmental Data Science Student
 
 Bren School of Environmental Science and Management
 
-kaimorquecho@bren.ucsb.edu
+[kaimorquecho\@bren.ucsb.edu](mailto:kaimorquecho@bren.ucsb.edu){.email}
 
 ## Acknowledgments
 

@@ -90,6 +90,28 @@ annual_aqi %>%
 # identify states covered by both dfs 
 intersect(annual_aqi$county, asthma_emergencies$county) # 515
 ```
+# Check years of data available per state
+```{r}
+# check years available in asthma_emergencies
+asthma_years <- asthma_emergencies %>%
+  group_by(state) %>%
+  summarise(years_available = paste(sort(unique(year)), collapse = ", ")) %>%
+  arrange(state)  
+
+asthma_years
+
+# check years available in annual_aqi
+aqi_years <- annual_aqi %>%
+  group_by(state) %>%
+  summarise(years_available = paste(sort(unique(year)), collapse = ", ")) %>%
+  arrange(state) 
+
+aqi_years
+```
+
+
+
+
 # Clean datasets
 
 ### 'value' column in asthma_emergencies

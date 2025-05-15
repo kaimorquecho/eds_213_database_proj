@@ -1,0 +1,28 @@
+---
+title: "query_data_visualization"
+output: html_document
+---
+
+# Load libraries
+```{r warning=FALSE, message=FALSE}
+library(DBI)
+library(duckdb)
+library(ggplot2)
+library(tidyverse)
+```
+
+# Connect to database and read in tables
+```{r}
+# connect to DuckDB database
+con <- dbConnect(duckdb::duckdb(), "data/processed/asthma_aqi_data_2020_2022.duckdb")
+
+# tables
+asthma <- dbReadTable(con, "asthma_emergencies")
+aqi <- dbReadTable(con, "annual_aqi")
+```
+
+```{r}
+
+
+```
+

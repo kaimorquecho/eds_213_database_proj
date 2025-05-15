@@ -19,6 +19,9 @@ This project explores the relationship between air quality and asthma-related em
         -   Under 'Geography Type' select 'National By County'
         -   Under 'Time' select 2020, 2021, and 2022.
     -   Download file
+-   **CAL Fire**\
+    <https://www.fire.ca.gov/incidents/2020>
+    -   For context, to find number of wildfires in 2020
 
 ### Methods
 

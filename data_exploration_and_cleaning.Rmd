@@ -15,17 +15,17 @@ library(lubridate)
 
 # Read in data 
 ```{r message=FALSE}
-asthma_emergencies <- read_csv(here("data","annual_asthma_emergencies_county_2020_2021_2022.csv")) %>%
+asthma_emergencies <- read_csv(here("data","raw", "annual_asthma_emergencies_county_2020_2021_2022.csv")) %>%
   clean_names() %>%
   select(-data_comment, -x8) # drop unnecessary cols
 
-annual_county_aqi_2020 <- read_csv(here("data","annual_aqi_by_county_2020.csv")) %>%
+annual_county_aqi_2020 <- read_csv(here("data","raw","annual_aqi_by_county_2020.csv")) %>%
   clean_names() 
 
-annual_county_aqi_2021 <- read_csv(here("data","annual_aqi_by_county_2021.csv")) %>%
+annual_county_aqi_2021 <- read_csv(here("data","raw","annual_aqi_by_county_2021.csv")) %>%
   clean_names()
 
-annual_county_aqi_2022 <- read_csv(here("data","annual_aqi_by_county_2022.csv")) %>%
+annual_county_aqi_2022 <- read_csv(here("data","raw","annual_aqi_by_county_2022.csv")) %>%
   clean_names()
 
 ```
@@ -217,8 +217,11 @@ annual_aqi %>% filter(max_aqi > 3000)
 ```
 
 
-
-
+# Save cleaned files
+```{r}
+write_csv(asthma_emergencies, here("data", "processed", "asthma_emergencies_clean.csv"))
+write_csv(annual_aqi, here("data", "processed", "annual_aqi_clean.csv"))
+```
 
 
 

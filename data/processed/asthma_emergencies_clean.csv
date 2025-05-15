@@ -1,0 +1,3071 @@
+state_fips,state,county_fips,county,year,er_visits
+04,Arizona,04001,Apache,2020,206
+04,Arizona,04001,Apache,2021,172
+04,Arizona,04001,Apache,2022,208
+04,Arizona,04003,Cochise,2020,291
+04,Arizona,04003,Cochise,2021,391
+04,Arizona,04003,Cochise,2022,507
+04,Arizona,04005,Coconino,2020,179
+04,Arizona,04005,Coconino,2021,163
+04,Arizona,04005,Coconino,2022,208
+04,Arizona,04007,Gila,2020,176
+04,Arizona,04007,Gila,2021,186
+04,Arizona,04007,Gila,2022,205
+04,Arizona,04009,Graham,2020,89
+04,Arizona,04009,Graham,2021,121
+04,Arizona,04009,Graham,2022,151
+04,Arizona,04011,Greenlee,2020,10
+04,Arizona,04011,Greenlee,2021,6
+04,Arizona,04011,Greenlee,2022,14
+04,Arizona,04012,La Paz,2020,50
+04,Arizona,04012,La Paz,2021,48
+04,Arizona,04012,La Paz,2022,60
+04,Arizona,04013,Maricopa,2020,10182
+04,Arizona,04013,Maricopa,2021,11669
+04,Arizona,04013,Maricopa,2022,13756
+04,Arizona,04015,Mohave,2020,598
+04,Arizona,04015,Mohave,2021,553
+04,Arizona,04015,Mohave,2022,584
+04,Arizona,04017,Navajo,2020,209
+04,Arizona,04017,Navajo,2021,236
+04,Arizona,04017,Navajo,2022,250
+04,Arizona,04019,Pima,2020,2093
+04,Arizona,04019,Pima,2021,2201
+04,Arizona,04019,Pima,2022,2813
+04,Arizona,04021,Pinal,2020,927
+04,Arizona,04021,Pinal,2021,983
+04,Arizona,04021,Pinal,2022,1121
+04,Arizona,04023,Santa Cruz,2020,71
+04,Arizona,04023,Santa Cruz,2021,108
+04,Arizona,04023,Santa Cruz,2022,98
+04,Arizona,04025,Yavapai,2020,383
+04,Arizona,04025,Yavapai,2021,359
+04,Arizona,04025,Yavapai,2022,477
+04,Arizona,04027,Yuma,2020,405
+04,Arizona,04027,Yuma,2021,377
+04,Arizona,04027,Yuma,2022,407
+06,California,06001,Alameda,2020,4267
+06,California,06003,Alpine,2020,0
+06,California,06005,Amador,2020,103
+06,California,06007,Butte,2020,472
+06,California,06009,Calaveras,2020,111
+06,California,06011,Colusa,2020,49
+06,California,06013,Contra Costa,2020,3032
+06,California,06015,Del Norte,2020,104
+06,California,06017,El Dorado,2020,351
+06,California,06019,Fresno,2020,3495
+06,California,06021,Glenn,2020,55
+06,California,06023,Humboldt,2020,441
+06,California,06025,Imperial,2020,473
+06,California,06027,Inyo,2020,46
+06,California,06029,Kern,2020,2526
+06,California,06031,Kings,2020,427
+06,California,06033,Lake,2020,267
+06,California,06035,Lassen,2020,90
+06,California,06037,Los Angeles,2020,25846
+06,California,06039,Madera,2020,473
+06,California,06041,Marin,2020,280
+06,California,06043,Mariposa,2020,31
+06,California,06045,Mendocino,2020,314
+06,California,06047,Merced,2020,1033
+06,California,06049,Modoc,2020,42
+06,California,06051,Mono,2020,35
+06,California,06053,Monterey,2020,915
+06,California,06055,Napa,2020,322
+06,California,06057,Nevada,2020,174
+06,California,06059,Orange,2020,4858
+06,California,06061,Placer,2020,621
+06,California,06063,Plumas,2020,56
+06,California,06065,Riverside,2020,5865
+06,California,06067,Sacramento,2020,5479
+06,California,06069,San Benito,2020,219
+06,California,06071,San Bernardino,2020,6742
+06,California,06073,San Diego,2020,5736
+06,California,06075,San Francisco,2020,1431
+06,California,06077,San Joaquin,2020,2940
+06,California,06079,San Luis Obispo,2020,432
+06,California,06081,San Mateo,2020,1078
+06,California,06083,Santa Barbara,2020,677
+06,California,06085,Santa Clara,2020,2804
+06,California,06087,Santa Cruz,2020,457
+06,California,06089,Shasta,2020,399
+06,California,06093,Siskiyou,2020,86
+06,California,06095,Solano,2020,1766
+06,California,06097,Sonoma,2020,884
+06,California,06099,Stanislaus,2020,1798
+06,California,06101,Sutter,2020,183
+06,California,06103,Tehama,2020,173
+06,California,06107,Tulare,2020,1134
+06,California,06109,Tuolumne,2020,130
+06,California,06111,Ventura,2020,1391
+06,California,06113,Yolo,2020,454
+06,California,06115,Yuba,2020,191
+08,Colorado,08001,Adams,2020,1580
+08,Colorado,08001,Adams,2021,1748
+08,Colorado,08003,Alamosa,2020,47
+08,Colorado,08003,Alamosa,2021,45
+08,Colorado,08005,Arapahoe,2020,1516
+08,Colorado,08005,Arapahoe,2021,1610
+08,Colorado,08007,Archuleta,2020,15
+08,Colorado,08007,Archuleta,2021,8
+08,Colorado,08011,Bent,2020,17
+08,Colorado,08011,Bent,2021,19
+08,Colorado,08013,Boulder,2020,331
+08,Colorado,08013,Boulder,2021,333
+08,Colorado,08014,Broomfield,2020,95
+08,Colorado,08014,Broomfield,2021,85
+08,Colorado,08015,Chaffee,2020,31
+08,Colorado,08015,Chaffee,2021,24
+08,Colorado,08017,Cheyenne,2021,0
+08,Colorado,08019,Clear Creek,2020,10
+08,Colorado,08021,Conejos,2020,16
+08,Colorado,08021,Conejos,2021,8
+08,Colorado,08025,Crowley,2020,13
+08,Colorado,08025,Crowley,2021,12
+08,Colorado,08027,Custer,2020,7
+08,Colorado,08027,Custer,2021,6
+08,Colorado,08029,Delta,2020,37
+08,Colorado,08029,Delta,2021,55
+08,Colorado,08031,Denver,2020,1690
+08,Colorado,08031,Denver,2021,1897
+08,Colorado,08033,Dolores,2020,0
+08,Colorado,08033,Dolores,2021,0
+08,Colorado,08035,Douglas,2020,330
+08,Colorado,08035,Douglas,2021,407
+08,Colorado,08037,Eagle,2020,36
+08,Colorado,08037,Eagle,2021,16
+08,Colorado,08041,El Paso,2020,1249
+08,Colorado,08041,El Paso,2021,1365
+08,Colorado,08039,Elbert,2020,27
+08,Colorado,08039,Elbert,2021,19
+08,Colorado,08043,Fremont,2020,71
+08,Colorado,08043,Fremont,2021,100
+08,Colorado,08045,Garfield,2020,78
+08,Colorado,08045,Garfield,2021,85
+08,Colorado,08047,Gilpin,2020,10
+08,Colorado,08049,Grand,2020,26
+08,Colorado,08051,Gunnison,2020,10
+08,Colorado,08051,Gunnison,2021,13
+08,Colorado,08053,Hinsdale,2020,0
+08,Colorado,08053,Hinsdale,2021,0
+08,Colorado,08057,Jackson,2020,0
+08,Colorado,08057,Jackson,2021,0
+08,Colorado,08059,Jefferson,2020,984
+08,Colorado,08059,Jefferson,2021,893
+08,Colorado,08063,Kit Carson,2020,17
+08,Colorado,08063,Kit Carson,2021,39
+08,Colorado,08067,La Plata,2020,58
+08,Colorado,08067,La Plata,2021,53
+08,Colorado,08069,Larimer,2020,548
+08,Colorado,08069,Larimer,2021,456
+08,Colorado,08071,Las Animas,2020,76
+08,Colorado,08071,Las Animas,2021,60
+08,Colorado,08073,Lincoln,2020,10
+08,Colorado,08073,Lincoln,2021,11
+08,Colorado,08075,Logan,2020,77
+08,Colorado,08075,Logan,2021,82
+08,Colorado,08077,Mesa,2020,281
+08,Colorado,08077,Mesa,2021,264
+08,Colorado,08079,Mineral,2021,0
+08,Colorado,08081,Moffat,2021,21
+08,Colorado,08083,Montezuma,2020,44
+08,Colorado,08083,Montezuma,2021,9
+08,Colorado,08085,Montrose,2020,67
+08,Colorado,08085,Montrose,2021,84
+08,Colorado,08087,Morgan,2020,95
+08,Colorado,08087,Morgan,2021,34
+08,Colorado,08089,Otero,2020,83
+08,Colorado,08089,Otero,2021,70
+08,Colorado,08091,Ouray,2020,0
+08,Colorado,08093,Park,2020,16
+08,Colorado,08093,Park,2021,13
+08,Colorado,08095,Phillips,2020,9
+08,Colorado,08095,Phillips,2021,12
+08,Colorado,08097,Pitkin,2020,13
+08,Colorado,08097,Pitkin,2021,6
+08,Colorado,08099,Prowers,2020,39
+08,Colorado,08099,Prowers,2021,25
+08,Colorado,08101,Pueblo,2020,608
+08,Colorado,08101,Pueblo,2021,626
+08,Colorado,08103,Rio Blanco,2020,14
+08,Colorado,08105,Rio Grande,2020,21
+08,Colorado,08105,Rio Grande,2021,25
+08,Colorado,08107,Routt,2020,13
+08,Colorado,08107,Routt,2021,11
+08,Colorado,08109,Saguache,2020,11
+08,Colorado,08111,San Juan,2020,0
+08,Colorado,08111,San Juan,2021,0
+08,Colorado,08113,San Miguel,2021,0
+08,Colorado,08115,Sedgwick,2020,8
+08,Colorado,08115,Sedgwick,2021,10
+08,Colorado,08117,Summit,2020,44
+08,Colorado,08117,Summit,2021,7
+08,Colorado,08119,Teller,2020,36
+08,Colorado,08119,Teller,2021,34
+08,Colorado,08121,Washington,2021,8
+08,Colorado,08123,Weld,2020,622
+08,Colorado,08123,Weld,2021,690
+08,Colorado,08125,Yuma,2020,10
+08,Colorado,08125,Yuma,2021,23
+12,Florida,12001,Alachua,2020,912
+12,Florida,12001,Alachua,2021,1135
+12,Florida,12001,Alachua,2022,1283
+12,Florida,12003,Baker,2020,109
+12,Florida,12003,Baker,2021,122
+12,Florida,12003,Baker,2022,110
+12,Florida,12005,Bay,2020,500
+12,Florida,12005,Bay,2021,702
+12,Florida,12005,Bay,2022,687
+12,Florida,12007,Bradford,2020,119
+12,Florida,12007,Bradford,2021,137
+12,Florida,12007,Bradford,2022,133
+12,Florida,12009,Brevard,2020,1408
+12,Florida,12009,Brevard,2021,1400
+12,Florida,12009,Brevard,2022,1418
+12,Florida,12011,Broward,2020,6520
+12,Florida,12011,Broward,2021,7526
+12,Florida,12011,Broward,2022,9245
+12,Florida,12013,Calhoun,2020,34
+12,Florida,12013,Calhoun,2021,42
+12,Florida,12013,Calhoun,2022,44
+12,Florida,12015,Charlotte,2020,400
+12,Florida,12015,Charlotte,2021,360
+12,Florida,12015,Charlotte,2022,409
+12,Florida,12017,Citrus,2020,352
+12,Florida,12017,Citrus,2021,408
+12,Florida,12017,Citrus,2022,388
+12,Florida,12019,Clay,2020,787
+12,Florida,12019,Clay,2021,897
+12,Florida,12019,Clay,2022,840
+12,Florida,12021,Collier,2020,653
+12,Florida,12021,Collier,2021,833
+12,Florida,12021,Collier,2022,808
+12,Florida,12023,Columbia,2020,341
+12,Florida,12023,Columbia,2021,382
+12,Florida,12023,Columbia,2022,396
+12,Florida,12027,Desoto,2020,91
+12,Florida,12027,Desoto,2021,138
+12,Florida,12027,Desoto,2022,142
+12,Florida,12029,Dixie,2020,31
+12,Florida,12029,Dixie,2021,40
+12,Florida,12029,Dixie,2022,32
+12,Florida,12031,Duval,2020,5441
+12,Florida,12031,Duval,2021,6361
+12,Florida,12031,Duval,2022,6516
+12,Florida,12033,Escambia,2020,1491
+12,Florida,12033,Escambia,2021,1773
+12,Florida,12033,Escambia,2022,1955
+12,Florida,12035,Flagler,2020,298
+12,Florida,12035,Flagler,2021,294
+12,Florida,12035,Flagler,2022,285
+12,Florida,12037,Franklin,2020,32
+12,Florida,12037,Franklin,2021,35
+12,Florida,12037,Franklin,2022,31
+12,Florida,12039,Gadsden,2020,330
+12,Florida,12039,Gadsden,2021,397
+12,Florida,12039,Gadsden,2022,374
+12,Florida,12041,Gilchrist,2020,46
+12,Florida,12041,Gilchrist,2021,52
+12,Florida,12041,Gilchrist,2022,40
+12,Florida,12043,Glades,2020,9
+12,Florida,12043,Glades,2021,20
+12,Florida,12043,Glades,2022,23
+12,Florida,12045,Gulf,2020,43
+12,Florida,12045,Gulf,2021,42
+12,Florida,12045,Gulf,2022,73
+12,Florida,12047,Hamilton,2020,62
+12,Florida,12047,Hamilton,2021,52
+12,Florida,12047,Hamilton,2022,51
+12,Florida,12049,Hardee,2020,98
+12,Florida,12049,Hardee,2021,120
+12,Florida,12049,Hardee,2022,98
+12,Florida,12051,Hendry,2020,136
+12,Florida,12051,Hendry,2021,162
+12,Florida,12051,Hendry,2022,221
+12,Florida,12053,Hernando,2020,530
+12,Florida,12053,Hernando,2021,527
+12,Florida,12053,Hernando,2022,587
+12,Florida,12055,Highlands,2020,422
+12,Florida,12055,Highlands,2021,453
+12,Florida,12055,Highlands,2022,417
+12,Florida,12057,Hillsborough,2020,5311
+12,Florida,12057,Hillsborough,2021,6294
+12,Florida,12057,Hillsborough,2022,7097
+12,Florida,12059,Holmes,2020,56
+12,Florida,12059,Holmes,2021,60
+12,Florida,12059,Holmes,2022,60
+12,Florida,12061,Indian River,2020,464
+12,Florida,12061,Indian River,2021,514
+12,Florida,12061,Indian River,2022,516
+12,Florida,12063,Jackson,2020,170
+12,Florida,12063,Jackson,2021,203
+12,Florida,12063,Jackson,2022,177
+12,Florida,12065,Jefferson,2020,52
+12,Florida,12065,Jefferson,2021,71
+12,Florida,12065,Jefferson,2022,51
+12,Florida,12067,Lafayette,2020,16
+12,Florida,12067,Lafayette,2021,17
+12,Florida,12067,Lafayette,2022,14
+12,Florida,12069,Lake,2020,1022
+12,Florida,12069,Lake,2021,1218
+12,Florida,12069,Lake,2022,1317
+12,Florida,12071,Lee,2020,1579
+12,Florida,12071,Lee,2021,2213
+12,Florida,12071,Lee,2022,2357
+12,Florida,12073,Leon,2020,1149
+12,Florida,12073,Leon,2021,1347
+12,Florida,12073,Leon,2022,1383
+12,Florida,12075,Levy,2020,124
+12,Florida,12075,Levy,2021,162
+12,Florida,12075,Levy,2022,141
+12,Florida,12077,Liberty,2020,29
+12,Florida,12077,Liberty,2021,29
+12,Florida,12077,Liberty,2022,22
+12,Florida,12079,Madison,2020,70
+12,Florida,12079,Madison,2021,126
+12,Florida,12079,Madison,2022,92
+12,Florida,12081,Manatee,2020,893
+12,Florida,12081,Manatee,2021,1005
+12,Florida,12081,Manatee,2022,1127
+12,Florida,12083,Marion,2020,1804
+12,Florida,12083,Marion,2021,2233
+12,Florida,12083,Marion,2022,2311
+12,Florida,12085,Martin,2020,261
+12,Florida,12085,Martin,2021,300
+12,Florida,12085,Martin,2022,331
+12,Florida,12086,Miami-Dade,2020,7360
+12,Florida,12086,Miami-Dade,2021,9116
+12,Florida,12086,Miami-Dade,2022,11789
+12,Florida,12087,Monroe,2020,123
+12,Florida,12087,Monroe,2021,163
+12,Florida,12087,Monroe,2022,175
+12,Florida,12089,Nassau,2020,213
+12,Florida,12089,Nassau,2021,215
+12,Florida,12089,Nassau,2022,280
+12,Florida,12091,Okaloosa,2020,726
+12,Florida,12091,Okaloosa,2021,737
+12,Florida,12091,Okaloosa,2022,711
+12,Florida,12093,Okeechobee,2020,148
+12,Florida,12093,Okeechobee,2021,164
+12,Florida,12093,Okeechobee,2022,196
+12,Florida,12095,Orange,2020,5765
+12,Florida,12095,Orange,2021,6579
+12,Florida,12095,Orange,2022,7273
+12,Florida,12097,Osceola,2020,1932
+12,Florida,12097,Osceola,2021,2514
+12,Florida,12097,Osceola,2022,2976
+12,Florida,12099,Palm Beach,2020,3736
+12,Florida,12099,Palm Beach,2021,4299
+12,Florida,12099,Palm Beach,2022,5162
+12,Florida,12101,Pasco,2020,1569
+12,Florida,12101,Pasco,2021,1768
+12,Florida,12101,Pasco,2022,1833
+12,Florida,12103,Pinellas,2020,2815
+12,Florida,12103,Pinellas,2021,3172
+12,Florida,12103,Pinellas,2022,3240
+12,Florida,12105,Polk,2020,3721
+12,Florida,12105,Polk,2021,4601
+12,Florida,12105,Polk,2022,4583
+12,Florida,12107,Putnam,2020,368
+12,Florida,12107,Putnam,2021,381
+12,Florida,12107,Putnam,2022,386
+12,Florida,12113,Santa Rosa,2020,403
+12,Florida,12113,Santa Rosa,2021,554
+12,Florida,12113,Santa Rosa,2022,605
+12,Florida,12115,Sarasota,2020,621
+12,Florida,12115,Sarasota,2021,735
+12,Florida,12115,Sarasota,2022,756
+12,Florida,12117,Seminole,2020,1297
+12,Florida,12117,Seminole,2021,1421
+12,Florida,12117,Seminole,2022,1554
+12,Florida,12109,St. Johns,2020,354
+12,Florida,12109,St. Johns,2021,472
+12,Florida,12109,St. Johns,2022,479
+12,Florida,12111,St. Lucie,2020,1150
+12,Florida,12111,St. Lucie,2021,1309
+12,Florida,12111,St. Lucie,2022,1564
+12,Florida,12119,Sumter,2020,189
+12,Florida,12119,Sumter,2021,254
+12,Florida,12119,Sumter,2022,289
+12,Florida,12121,Suwannee,2020,178
+12,Florida,12121,Suwannee,2021,198
+12,Florida,12121,Suwannee,2022,230
+12,Florida,12123,Taylor,2020,60
+12,Florida,12123,Taylor,2021,65
+12,Florida,12123,Taylor,2022,48
+12,Florida,12125,Union,2020,79
+12,Florida,12125,Union,2021,87
+12,Florida,12125,Union,2022,111
+12,Florida,12127,Volusia,2020,1930
+12,Florida,12127,Volusia,2021,2126
+12,Florida,12127,Volusia,2022,2006
+12,Florida,12129,Wakulla,2020,75
+12,Florida,12129,Wakulla,2021,82
+12,Florida,12129,Wakulla,2022,85
+12,Florida,12131,Walton,2020,150
+12,Florida,12131,Walton,2021,133
+12,Florida,12131,Walton,2022,147
+12,Florida,12133,Washington,2020,84
+12,Florida,12133,Washington,2021,80
+12,Florida,12133,Washington,2022,77
+19,Iowa,19001,Adair,2020,21
+19,Iowa,19001,Adair,2021,11
+19,Iowa,19001,Adair,2022,10
+19,Iowa,19003,Adams,2020,20
+19,Iowa,19003,Adams,2021,19
+19,Iowa,19003,Adams,2022,12
+19,Iowa,19005,Allamakee,2020,33
+19,Iowa,19005,Allamakee,2021,31
+19,Iowa,19005,Allamakee,2022,25
+19,Iowa,19007,Appanoose,2020,28
+19,Iowa,19007,Appanoose,2021,25
+19,Iowa,19007,Appanoose,2022,27
+19,Iowa,19009,Audubon,2020,9
+19,Iowa,19009,Audubon,2021,6
+19,Iowa,19009,Audubon,2022,11
+19,Iowa,19011,Benton,2020,38
+19,Iowa,19011,Benton,2021,31
+19,Iowa,19011,Benton,2022,36
+19,Iowa,19013,Black Hawk,2020,329
+19,Iowa,19013,Black Hawk,2021,379
+19,Iowa,19013,Black Hawk,2022,372
+19,Iowa,19015,Boone,2020,35
+19,Iowa,19015,Boone,2021,34
+19,Iowa,19015,Boone,2022,45
+19,Iowa,19017,Bremer,2020,29
+19,Iowa,19017,Bremer,2021,42
+19,Iowa,19017,Bremer,2022,25
+19,Iowa,19019,Buchanan,2020,39
+19,Iowa,19019,Buchanan,2021,30
+19,Iowa,19019,Buchanan,2022,32
+19,Iowa,19021,Buena Vista,2020,43
+19,Iowa,19021,Buena Vista,2021,51
+19,Iowa,19021,Buena Vista,2022,54
+19,Iowa,19023,Butler,2020,17
+19,Iowa,19023,Butler,2021,16
+19,Iowa,19023,Butler,2022,19
+19,Iowa,19025,Calhoun,2020,10
+19,Iowa,19025,Calhoun,2021,10
+19,Iowa,19025,Calhoun,2022,15
+19,Iowa,19027,Carroll,2020,31
+19,Iowa,19027,Carroll,2021,43
+19,Iowa,19027,Carroll,2022,45
+19,Iowa,19029,Cass,2020,22
+19,Iowa,19029,Cass,2021,41
+19,Iowa,19029,Cass,2022,34
+19,Iowa,19031,Cedar,2020,14
+19,Iowa,19031,Cedar,2021,25
+19,Iowa,19031,Cedar,2022,33
+19,Iowa,19033,Cerro Gordo,2020,91
+19,Iowa,19033,Cerro Gordo,2021,87
+19,Iowa,19033,Cerro Gordo,2022,126
+19,Iowa,19035,Cherokee,2020,21
+19,Iowa,19035,Cherokee,2021,18
+19,Iowa,19035,Cherokee,2022,23
+19,Iowa,19037,Chickasaw,2020,8
+19,Iowa,19037,Chickasaw,2021,16
+19,Iowa,19037,Chickasaw,2022,14
+19,Iowa,19039,Clarke,2020,20
+19,Iowa,19039,Clarke,2021,8
+19,Iowa,19039,Clarke,2022,28
+19,Iowa,19041,Clay,2020,21
+19,Iowa,19041,Clay,2021,43
+19,Iowa,19041,Clay,2022,44
+19,Iowa,19043,Clayton,2020,18
+19,Iowa,19043,Clayton,2021,13
+19,Iowa,19043,Clayton,2022,26
+19,Iowa,19045,Clinton,2020,121
+19,Iowa,19045,Clinton,2021,155
+19,Iowa,19045,Clinton,2022,166
+19,Iowa,19047,Crawford,2020,65
+19,Iowa,19047,Crawford,2021,61
+19,Iowa,19047,Crawford,2022,54
+19,Iowa,19049,Dallas,2020,82
+19,Iowa,19049,Dallas,2021,113
+19,Iowa,19049,Dallas,2022,138
+19,Iowa,19051,Davis,2020,11
+19,Iowa,19051,Davis,2021,6
+19,Iowa,19051,Davis,2022,18
+19,Iowa,19053,Decatur,2020,12
+19,Iowa,19053,Decatur,2021,14
+19,Iowa,19053,Decatur,2022,23
+19,Iowa,19055,Delaware,2020,19
+19,Iowa,19055,Delaware,2021,21
+19,Iowa,19055,Delaware,2022,28
+19,Iowa,19057,Des Moines,2020,128
+19,Iowa,19057,Des Moines,2021,153
+19,Iowa,19057,Des Moines,2022,165
+19,Iowa,19059,Dickinson,2020,20
+19,Iowa,19059,Dickinson,2021,28
+19,Iowa,19059,Dickinson,2022,25
+19,Iowa,19061,Dubuque,2020,265
+19,Iowa,19061,Dubuque,2021,266
+19,Iowa,19061,Dubuque,2022,299
+19,Iowa,19063,Emmet,2020,17
+19,Iowa,19063,Emmet,2021,23
+19,Iowa,19063,Emmet,2022,21
+19,Iowa,19065,Fayette,2020,60
+19,Iowa,19065,Fayette,2021,50
+19,Iowa,19065,Fayette,2022,57
+19,Iowa,19067,Floyd,2020,26
+19,Iowa,19067,Floyd,2021,26
+19,Iowa,19067,Floyd,2022,42
+19,Iowa,19069,Franklin,2020,25
+19,Iowa,19069,Franklin,2021,24
+19,Iowa,19069,Franklin,2022,22
+19,Iowa,19071,Fremont,2020,11
+19,Iowa,19071,Fremont,2021,10
+19,Iowa,19071,Fremont,2022,9
+19,Iowa,19073,Greene,2020,23
+19,Iowa,19073,Greene,2021,23
+19,Iowa,19073,Greene,2022,19
+19,Iowa,19075,Grundy,2020,17
+19,Iowa,19075,Grundy,2021,14
+19,Iowa,19075,Grundy,2022,20
+19,Iowa,19077,Guthrie,2020,14
+19,Iowa,19077,Guthrie,2021,24
+19,Iowa,19077,Guthrie,2022,18
+19,Iowa,19079,Hamilton,2020,25
+19,Iowa,19079,Hamilton,2021,25
+19,Iowa,19079,Hamilton,2022,20
+19,Iowa,19081,Hancock,2020,28
+19,Iowa,19081,Hancock,2021,24
+19,Iowa,19081,Hancock,2022,14
+19,Iowa,19083,Hardin,2020,46
+19,Iowa,19083,Hardin,2021,45
+19,Iowa,19083,Hardin,2022,31
+19,Iowa,19085,Harrison,2020,21
+19,Iowa,19085,Harrison,2021,15
+19,Iowa,19085,Harrison,2022,18
+19,Iowa,19087,Henry,2020,46
+19,Iowa,19087,Henry,2021,48
+19,Iowa,19087,Henry,2022,52
+19,Iowa,19089,Howard,2020,14
+19,Iowa,19089,Howard,2021,20
+19,Iowa,19089,Howard,2022,13
+19,Iowa,19091,Humboldt,2020,16
+19,Iowa,19091,Humboldt,2021,20
+19,Iowa,19091,Humboldt,2022,14
+19,Iowa,19093,Ida,2020,11
+19,Iowa,19093,Ida,2021,9
+19,Iowa,19093,Ida,2022,8
+19,Iowa,19095,Iowa,2020,17
+19,Iowa,19095,Iowa,2021,30
+19,Iowa,19095,Iowa,2022,16
+19,Iowa,19097,Jackson,2020,36
+19,Iowa,19097,Jackson,2021,47
+19,Iowa,19097,Jackson,2022,59
+19,Iowa,19099,Jasper,2020,93
+19,Iowa,19099,Jasper,2021,111
+19,Iowa,19099,Jasper,2022,77
+19,Iowa,19101,Jefferson,2020,42
+19,Iowa,19101,Jefferson,2021,51
+19,Iowa,19101,Jefferson,2022,46
+19,Iowa,19103,Johnson,2020,303
+19,Iowa,19103,Johnson,2021,311
+19,Iowa,19103,Johnson,2022,359
+19,Iowa,19105,Jones,2020,36
+19,Iowa,19105,Jones,2021,36
+19,Iowa,19105,Jones,2022,56
+19,Iowa,19107,Keokuk,2020,25
+19,Iowa,19107,Keokuk,2021,45
+19,Iowa,19107,Keokuk,2022,26
+19,Iowa,19109,Kossuth,2020,13
+19,Iowa,19109,Kossuth,2021,24
+19,Iowa,19109,Kossuth,2022,17
+19,Iowa,19111,Lee,2020,79
+19,Iowa,19111,Lee,2021,108
+19,Iowa,19111,Lee,2022,114
+19,Iowa,19113,Linn,2020,480
+19,Iowa,19113,Linn,2021,579
+19,Iowa,19113,Linn,2022,632
+19,Iowa,19115,Louisa,2020,17
+19,Iowa,19115,Louisa,2021,20
+19,Iowa,19115,Louisa,2022,35
+19,Iowa,19117,Lucas,2020,18
+19,Iowa,19117,Lucas,2021,20
+19,Iowa,19117,Lucas,2022,26
+19,Iowa,19121,Madison,2020,24
+19,Iowa,19121,Madison,2021,24
+19,Iowa,19121,Madison,2022,33
+19,Iowa,19123,Mahaska,2020,35
+19,Iowa,19123,Mahaska,2021,34
+19,Iowa,19123,Mahaska,2022,50
+19,Iowa,19125,Marion,2020,54
+19,Iowa,19125,Marion,2021,64
+19,Iowa,19125,Marion,2022,56
+19,Iowa,19127,Marshall,2020,92
+19,Iowa,19127,Marshall,2021,119
+19,Iowa,19127,Marshall,2022,135
+19,Iowa,19129,Mills,2020,11
+19,Iowa,19129,Mills,2022,9
+19,Iowa,19131,Mitchell,2020,8
+19,Iowa,19131,Mitchell,2021,14
+19,Iowa,19131,Mitchell,2022,18
+19,Iowa,19133,Monona,2020,17
+19,Iowa,19133,Monona,2021,21
+19,Iowa,19133,Monona,2022,24
+19,Iowa,19135,Monroe,2020,8
+19,Iowa,19135,Monroe,2021,18
+19,Iowa,19135,Monroe,2022,16
+19,Iowa,19137,Montgomery,2020,21
+19,Iowa,19137,Montgomery,2021,14
+19,Iowa,19137,Montgomery,2022,18
+19,Iowa,19139,Muscatine,2020,110
+19,Iowa,19139,Muscatine,2021,102
+19,Iowa,19139,Muscatine,2022,115
+19,Iowa,19141,O'brien,2020,9
+19,Iowa,19141,O'brien,2021,29
+19,Iowa,19141,O'brien,2022,27
+19,Iowa,19145,Page,2020,33
+19,Iowa,19145,Page,2021,44
+19,Iowa,19145,Page,2022,32
+19,Iowa,19147,Palo Alto,2020,10
+19,Iowa,19147,Palo Alto,2021,12
+19,Iowa,19147,Palo Alto,2022,11
+19,Iowa,19149,Plymouth,2020,30
+19,Iowa,19149,Plymouth,2021,43
+19,Iowa,19149,Plymouth,2022,41
+19,Iowa,19151,Pocahontas,2020,7
+19,Iowa,19151,Pocahontas,2021,11
+19,Iowa,19151,Pocahontas,2022,13
+19,Iowa,19153,Polk,2020,1007
+19,Iowa,19153,Polk,2021,1132
+19,Iowa,19153,Polk,2022,1726
+19,Iowa,19155,Pottawattamie,2020,163
+19,Iowa,19155,Pottawattamie,2021,150
+19,Iowa,19155,Pottawattamie,2022,143
+19,Iowa,19157,Poweshiek,2020,41
+19,Iowa,19157,Poweshiek,2021,40
+19,Iowa,19157,Poweshiek,2022,42
+19,Iowa,19159,Ringgold,2020,8
+19,Iowa,19159,Ringgold,2021,6
+19,Iowa,19159,Ringgold,2022,11
+19,Iowa,19161,Sac,2020,15
+19,Iowa,19161,Sac,2021,13
+19,Iowa,19161,Sac,2022,19
+19,Iowa,19163,Scott,2020,592
+19,Iowa,19163,Scott,2021,630
+19,Iowa,19163,Scott,2022,706
+19,Iowa,19165,Shelby,2020,20
+19,Iowa,19165,Shelby,2021,27
+19,Iowa,19165,Shelby,2022,20
+19,Iowa,19167,Sioux,2020,38
+19,Iowa,19167,Sioux,2021,46
+19,Iowa,19167,Sioux,2022,44
+19,Iowa,19169,Story,2020,84
+19,Iowa,19169,Story,2021,109
+19,Iowa,19169,Story,2022,130
+19,Iowa,19171,Tama,2020,16
+19,Iowa,19171,Tama,2021,20
+19,Iowa,19171,Tama,2022,43
+19,Iowa,19173,Taylor,2020,10
+19,Iowa,19173,Taylor,2021,8
+19,Iowa,19173,Taylor,2022,11
+19,Iowa,19175,Union,2020,30
+19,Iowa,19175,Union,2021,31
+19,Iowa,19175,Union,2022,25
+19,Iowa,19177,Van Buren,2020,25
+19,Iowa,19177,Van Buren,2021,27
+19,Iowa,19177,Van Buren,2022,19
+19,Iowa,19179,Wapello,2020,86
+19,Iowa,19179,Wapello,2021,114
+19,Iowa,19179,Wapello,2022,94
+19,Iowa,19181,Warren,2020,49
+19,Iowa,19181,Warren,2021,61
+19,Iowa,19181,Warren,2022,97
+19,Iowa,19183,Washington,2020,26
+19,Iowa,19183,Washington,2021,36
+19,Iowa,19183,Washington,2022,44
+19,Iowa,19185,Wayne,2020,9
+19,Iowa,19185,Wayne,2021,9
+19,Iowa,19185,Wayne,2022,14
+19,Iowa,19187,Webster,2020,118
+19,Iowa,19187,Webster,2021,122
+19,Iowa,19187,Webster,2022,120
+19,Iowa,19189,Winnebago,2020,15
+19,Iowa,19189,Winnebago,2021,17
+19,Iowa,19189,Winnebago,2022,15
+19,Iowa,19191,Winneshiek,2020,26
+19,Iowa,19191,Winneshiek,2021,44
+19,Iowa,19191,Winneshiek,2022,44
+19,Iowa,19193,Woodbury,2020,230
+19,Iowa,19193,Woodbury,2021,248
+19,Iowa,19193,Woodbury,2022,254
+19,Iowa,19195,Worth,2020,11
+19,Iowa,19195,Worth,2021,7
+19,Iowa,19195,Worth,2022,17
+19,Iowa,19197,Wright,2020,10
+19,Iowa,19197,Wright,2021,29
+19,Iowa,19197,Wright,2022,15
+20,Kansas,20001,Allen,2020,16
+20,Kansas,20001,Allen,2021,11
+20,Kansas,20001,Allen,2022,28
+20,Kansas,20003,Anderson,2020,10
+20,Kansas,20003,Anderson,2021,17
+20,Kansas,20003,Anderson,2022,22
+20,Kansas,20005,Atchison,2020,32
+20,Kansas,20005,Atchison,2021,48
+20,Kansas,20005,Atchison,2022,62
+20,Kansas,20007,Barber,2021,9
+20,Kansas,20007,Barber,2022,8
+20,Kansas,20009,Barton,2020,76
+20,Kansas,20009,Barton,2021,73
+20,Kansas,20009,Barton,2022,81
+20,Kansas,20011,Bourbon,2020,17
+20,Kansas,20011,Bourbon,2021,18
+20,Kansas,20011,Bourbon,2022,43
+20,Kansas,20013,Brown,2020,27
+20,Kansas,20013,Brown,2021,14
+20,Kansas,20013,Brown,2022,16
+20,Kansas,20015,Butler,2020,110
+20,Kansas,20015,Butler,2021,99
+20,Kansas,20015,Butler,2022,205
+20,Kansas,20017,Chase,2022,7
+20,Kansas,20019,Chautauqua,2020,10
+20,Kansas,20019,Chautauqua,2022,11
+20,Kansas,20021,Cherokee,2020,15
+20,Kansas,20021,Cherokee,2021,11
+20,Kansas,20021,Cherokee,2022,13
+20,Kansas,20023,Cheyenne,2020,7
+20,Kansas,20023,Cheyenne,2022,7
+20,Kansas,20025,Clark,2020,6
+20,Kansas,20025,Clark,2021,8
+20,Kansas,20025,Clark,2022,6
+20,Kansas,20027,Clay,2020,13
+20,Kansas,20027,Clay,2021,21
+20,Kansas,20027,Clay,2022,23
+20,Kansas,20029,Cloud,2020,21
+20,Kansas,20029,Cloud,2021,19
+20,Kansas,20029,Cloud,2022,25
+20,Kansas,20031,Coffey,2020,12
+20,Kansas,20031,Coffey,2021,13
+20,Kansas,20031,Coffey,2022,50
+20,Kansas,20033,Comanche,2020,0
+20,Kansas,20033,Comanche,2021,0
+20,Kansas,20035,Cowley,2020,92
+20,Kansas,20035,Cowley,2021,95
+20,Kansas,20035,Cowley,2022,91
+20,Kansas,20037,Crawford,2020,59
+20,Kansas,20037,Crawford,2021,48
+20,Kansas,20037,Crawford,2022,109
+20,Kansas,20039,Decatur,2021,0
+20,Kansas,20041,Dickinson,2020,33
+20,Kansas,20041,Dickinson,2021,36
+20,Kansas,20041,Dickinson,2022,56
+20,Kansas,20043,Doniphan,2021,8
+20,Kansas,20043,Doniphan,2022,7
+20,Kansas,20045,Douglas,2020,170
+20,Kansas,20045,Douglas,2021,151
+20,Kansas,20045,Douglas,2022,239
+20,Kansas,20047,Edwards,2020,7
+20,Kansas,20051,Ellis,2020,40
+20,Kansas,20051,Ellis,2021,45
+20,Kansas,20051,Ellis,2022,64
+20,Kansas,20053,Ellsworth,2020,9
+20,Kansas,20053,Ellsworth,2021,10
+20,Kansas,20053,Ellsworth,2022,15
+20,Kansas,20055,Finney,2020,117
+20,Kansas,20055,Finney,2021,136
+20,Kansas,20055,Finney,2022,243
+20,Kansas,20057,Ford,2020,74
+20,Kansas,20057,Ford,2021,96
+20,Kansas,20057,Ford,2022,138
+20,Kansas,20059,Franklin,2020,62
+20,Kansas,20059,Franklin,2021,70
+20,Kansas,20059,Franklin,2022,95
+20,Kansas,20061,Geary,2020,38
+20,Kansas,20061,Geary,2021,22
+20,Kansas,20061,Geary,2022,137
+20,Kansas,20067,Grant,2020,21
+20,Kansas,20067,Grant,2021,18
+20,Kansas,20067,Grant,2022,24
+20,Kansas,20069,Gray,2021,13
+20,Kansas,20071,Greeley,2020,0
+20,Kansas,20073,Greenwood,2020,7
+20,Kansas,20073,Greenwood,2021,15
+20,Kansas,20073,Greenwood,2022,15
+20,Kansas,20077,Harper,2020,15
+20,Kansas,20077,Harper,2021,10
+20,Kansas,20077,Harper,2022,35
+20,Kansas,20079,Harvey,2020,70
+20,Kansas,20079,Harvey,2021,82
+20,Kansas,20079,Harvey,2022,121
+20,Kansas,20081,Haskell,2021,11
+20,Kansas,20081,Haskell,2022,12
+20,Kansas,20083,Hodgeman,2020,6
+20,Kansas,20083,Hodgeman,2022,11
+20,Kansas,20085,Jackson,2020,10
+20,Kansas,20085,Jackson,2021,14
+20,Kansas,20085,Jackson,2022,32
+20,Kansas,20087,Jefferson,2020,19
+20,Kansas,20087,Jefferson,2021,26
+20,Kansas,20087,Jefferson,2022,16
+20,Kansas,20089,Jewell,2021,8
+20,Kansas,20089,Jewell,2022,8
+20,Kansas,20091,Johnson,2020,879
+20,Kansas,20091,Johnson,2021,1052
+20,Kansas,20091,Johnson,2022,1682
+20,Kansas,20093,Kearny,2020,11
+20,Kansas,20093,Kearny,2021,19
+20,Kansas,20093,Kearny,2022,14
+20,Kansas,20095,Kingman,2020,15
+20,Kansas,20095,Kingman,2021,12
+20,Kansas,20095,Kingman,2022,16
+20,Kansas,20097,Kiowa,2021,9
+20,Kansas,20097,Kiowa,2022,7
+20,Kansas,20099,Labette,2020,31
+20,Kansas,20099,Labette,2021,35
+20,Kansas,20099,Labette,2022,48
+20,Kansas,20101,Lane,2022,14
+20,Kansas,20103,Leavenworth,2020,222
+20,Kansas,20103,Leavenworth,2021,257
+20,Kansas,20103,Leavenworth,2022,318
+20,Kansas,20105,Lincoln,2020,7
+20,Kansas,20105,Lincoln,2022,0
+20,Kansas,20107,Linn,2020,14
+20,Kansas,20107,Linn,2021,24
+20,Kansas,20107,Linn,2022,25
+20,Kansas,20109,Logan,2021,8
+20,Kansas,20109,Logan,2022,15
+20,Kansas,20111,Lyon,2020,102
+20,Kansas,20111,Lyon,2021,116
+20,Kansas,20111,Lyon,2022,132
+20,Kansas,20115,Marion,2020,23
+20,Kansas,20115,Marion,2021,11
+20,Kansas,20115,Marion,2022,13
+20,Kansas,20117,Marshall,2020,7
+20,Kansas,20117,Marshall,2021,20
+20,Kansas,20117,Marshall,2022,40
+20,Kansas,20113,Mcpherson,2020,47
+20,Kansas,20113,Mcpherson,2021,66
+20,Kansas,20113,Mcpherson,2022,43
+20,Kansas,20119,Meade,2020,10
+20,Kansas,20119,Meade,2021,6
+20,Kansas,20119,Meade,2022,10
+20,Kansas,20121,Miami,2020,61
+20,Kansas,20121,Miami,2021,60
+20,Kansas,20121,Miami,2022,67
+20,Kansas,20123,Mitchell,2020,7
+20,Kansas,20123,Mitchell,2021,10
+20,Kansas,20123,Mitchell,2022,10
+20,Kansas,20125,Montgomery,2020,36
+20,Kansas,20125,Montgomery,2021,72
+20,Kansas,20125,Montgomery,2022,64
+20,Kansas,20127,Morris,2020,8
+20,Kansas,20127,Morris,2022,10
+20,Kansas,20129,Morton,2020,7
+20,Kansas,20129,Morton,2022,8
+20,Kansas,20131,Nemaha,2020,6
+20,Kansas,20131,Nemaha,2021,9
+20,Kansas,20131,Nemaha,2022,35
+20,Kansas,20133,Neosho,2020,25
+20,Kansas,20133,Neosho,2021,28
+20,Kansas,20133,Neosho,2022,49
+20,Kansas,20135,Ness,2021,7
+20,Kansas,20135,Ness,2022,6
+20,Kansas,20137,Norton,2022,19
+20,Kansas,20139,Osage,2020,29
+20,Kansas,20139,Osage,2021,24
+20,Kansas,20139,Osage,2022,27
+20,Kansas,20141,Osborne,2021,14
+20,Kansas,20141,Osborne,2022,7
+20,Kansas,20143,Ottawa,2020,7
+20,Kansas,20143,Ottawa,2021,11
+20,Kansas,20143,Ottawa,2022,17
+20,Kansas,20145,Pawnee,2020,18
+20,Kansas,20145,Pawnee,2021,16
+20,Kansas,20145,Pawnee,2022,43
+20,Kansas,20147,Phillips,2020,10
+20,Kansas,20147,Phillips,2021,11
+20,Kansas,20149,Pottawatomie,2020,34
+20,Kansas,20149,Pottawatomie,2021,38
+20,Kansas,20149,Pottawatomie,2022,41
+20,Kansas,20151,Pratt,2020,0
+20,Kansas,20151,Pratt,2021,8
+20,Kansas,20153,Rawlins,2020,0
+20,Kansas,20153,Rawlins,2022,7
+20,Kansas,20155,Reno,2020,121
+20,Kansas,20155,Reno,2021,117
+20,Kansas,20155,Reno,2022,227
+20,Kansas,20157,Republic,2020,7
+20,Kansas,20157,Republic,2021,17
+20,Kansas,20159,Rice,2020,7
+20,Kansas,20159,Rice,2021,12
+20,Kansas,20159,Rice,2022,20
+20,Kansas,20161,Riley,2020,16
+20,Kansas,20161,Riley,2021,17
+20,Kansas,20161,Riley,2022,12
+20,Kansas,20163,Rooks,2022,8
+20,Kansas,20165,Rush,2021,7
+20,Kansas,20165,Rush,2022,15
+20,Kansas,20167,Russell,2020,8
+20,Kansas,20167,Russell,2021,11
+20,Kansas,20167,Russell,2022,6
+20,Kansas,20169,Saline,2020,180
+20,Kansas,20169,Saline,2021,159
+20,Kansas,20169,Saline,2022,207
+20,Kansas,20171,Scott,2020,20
+20,Kansas,20171,Scott,2022,22
+20,Kansas,20173,Sedgwick,2020,2350
+20,Kansas,20173,Sedgwick,2021,2621
+20,Kansas,20173,Sedgwick,2022,3972
+20,Kansas,20175,Seward,2020,32
+20,Kansas,20175,Seward,2021,54
+20,Kansas,20175,Seward,2022,80
+20,Kansas,20177,Shawnee,2020,550
+20,Kansas,20177,Shawnee,2021,530
+20,Kansas,20177,Shawnee,2022,793
+20,Kansas,20179,Sheridan,2020,6
+20,Kansas,20181,Sherman,2020,24
+20,Kansas,20181,Sherman,2021,18
+20,Kansas,20181,Sherman,2022,38
+20,Kansas,20183,Smith,2020,7
+20,Kansas,20183,Smith,2021,7
+20,Kansas,20183,Smith,2022,15
+20,Kansas,20187,Stanton,2020,11
+20,Kansas,20187,Stanton,2021,9
+20,Kansas,20189,Stevens,2020,14
+20,Kansas,20189,Stevens,2022,14
+20,Kansas,20191,Sumner,2020,37
+20,Kansas,20191,Sumner,2021,34
+20,Kansas,20191,Sumner,2022,53
+20,Kansas,20193,Thomas,2020,13
+20,Kansas,20193,Thomas,2021,13
+20,Kansas,20193,Thomas,2022,15
+20,Kansas,20195,Trego,2021,8
+20,Kansas,20197,Wabaunsee,2020,7
+20,Kansas,20197,Wabaunsee,2021,8
+20,Kansas,20197,Wabaunsee,2022,13
+20,Kansas,20199,Wallace,2020,0
+20,Kansas,20199,Wallace,2021,0
+20,Kansas,20199,Wallace,2022,6
+20,Kansas,20201,Washington,2021,6
+20,Kansas,20203,Wichita,2021,6
+20,Kansas,20203,Wichita,2022,11
+20,Kansas,20205,Wilson,2020,12
+20,Kansas,20205,Wilson,2021,21
+20,Kansas,20205,Wilson,2022,26
+20,Kansas,20209,Wyandotte,2020,711
+20,Kansas,20209,Wyandotte,2021,666
+20,Kansas,20209,Wyandotte,2022,935
+21,Kentucky,21001,Adair,2020,17
+21,Kentucky,21001,Adair,2021,33
+21,Kentucky,21003,Allen,2020,39
+21,Kentucky,21003,Allen,2021,35
+21,Kentucky,21005,Anderson,2020,35
+21,Kentucky,21005,Anderson,2021,36
+21,Kentucky,21007,Ballard,2021,6
+21,Kentucky,21009,Barren,2020,76
+21,Kentucky,21009,Barren,2021,63
+21,Kentucky,21011,Bath,2020,9
+21,Kentucky,21011,Bath,2021,15
+21,Kentucky,21013,Bell,2020,33
+21,Kentucky,21013,Bell,2021,51
+21,Kentucky,21015,Boone,2020,183
+21,Kentucky,21015,Boone,2021,188
+21,Kentucky,21017,Bourbon,2020,65
+21,Kentucky,21017,Bourbon,2021,87
+21,Kentucky,21019,Boyd,2020,126
+21,Kentucky,21019,Boyd,2021,80
+21,Kentucky,21021,Boyle,2020,50
+21,Kentucky,21021,Boyle,2021,58
+21,Kentucky,21023,Bracken,2020,12
+21,Kentucky,21023,Bracken,2021,17
+21,Kentucky,21025,Breathitt,2020,19
+21,Kentucky,21025,Breathitt,2021,24
+21,Kentucky,21027,Breckinridge,2020,45
+21,Kentucky,21027,Breckinridge,2021,49
+21,Kentucky,21029,Bullitt,2020,126
+21,Kentucky,21029,Bullitt,2021,176
+21,Kentucky,21031,Butler,2020,18
+21,Kentucky,21031,Butler,2021,9
+21,Kentucky,21033,Caldwell,2020,27
+21,Kentucky,21033,Caldwell,2021,28
+21,Kentucky,21035,Calloway,2020,29
+21,Kentucky,21035,Calloway,2021,32
+21,Kentucky,21037,Campbell,2020,127
+21,Kentucky,21037,Campbell,2021,120
+21,Kentucky,21041,Carroll,2020,40
+21,Kentucky,21041,Carroll,2021,33
+21,Kentucky,21043,Carter,2020,32
+21,Kentucky,21043,Carter,2021,31
+21,Kentucky,21045,Casey,2020,35
+21,Kentucky,21045,Casey,2021,37
+21,Kentucky,21047,Christian,2020,183
+21,Kentucky,21047,Christian,2021,193
+21,Kentucky,21049,Clark,2020,60
+21,Kentucky,21049,Clark,2021,70
+21,Kentucky,21051,Clay,2020,66
+21,Kentucky,21051,Clay,2021,43
+21,Kentucky,21053,Clinton,2020,13
+21,Kentucky,21053,Clinton,2021,19
+21,Kentucky,21055,Crittenden,2020,21
+21,Kentucky,21055,Crittenden,2021,23
+21,Kentucky,21057,Cumberland,2020,13
+21,Kentucky,21057,Cumberland,2021,18
+21,Kentucky,21059,Daviess,2020,195
+21,Kentucky,21059,Daviess,2021,245
+21,Kentucky,21061,Edmonson,2020,16
+21,Kentucky,21061,Edmonson,2021,13
+21,Kentucky,21063,Elliott,2020,6
+21,Kentucky,21063,Elliott,2021,7
+21,Kentucky,21065,Estill,2020,36
+21,Kentucky,21065,Estill,2021,32
+21,Kentucky,21067,Fayette,2020,772
+21,Kentucky,21067,Fayette,2021,973
+21,Kentucky,21069,Fleming,2020,28
+21,Kentucky,21069,Fleming,2021,21
+21,Kentucky,21071,Floyd,2020,50
+21,Kentucky,21071,Floyd,2021,47
+21,Kentucky,21073,Franklin,2020,98
+21,Kentucky,21073,Franklin,2021,119
+21,Kentucky,21075,Fulton,2020,13
+21,Kentucky,21075,Fulton,2021,7
+21,Kentucky,21077,Gallatin,2020,11
+21,Kentucky,21077,Gallatin,2021,13
+21,Kentucky,21079,Garrard,2020,32
+21,Kentucky,21079,Garrard,2021,41
+21,Kentucky,21081,Grant,2020,47
+21,Kentucky,21081,Grant,2021,46
+21,Kentucky,21083,Graves,2020,92
+21,Kentucky,21083,Graves,2021,86
+21,Kentucky,21085,Grayson,2020,77
+21,Kentucky,21085,Grayson,2021,88
+21,Kentucky,21087,Green,2020,26
+21,Kentucky,21087,Green,2021,27
+21,Kentucky,21089,Greenup,2020,49
+21,Kentucky,21089,Greenup,2021,42
+21,Kentucky,21091,Hancock,2020,9
+21,Kentucky,21091,Hancock,2021,11
+21,Kentucky,21093,Hardin,2020,271
+21,Kentucky,21093,Hardin,2021,299
+21,Kentucky,21095,Harlan,2020,97
+21,Kentucky,21095,Harlan,2021,87
+21,Kentucky,21097,Harrison,2020,37
+21,Kentucky,21097,Harrison,2021,32
+21,Kentucky,21099,Hart,2020,22
+21,Kentucky,21099,Hart,2021,32
+21,Kentucky,21101,Henderson,2020,78
+21,Kentucky,21101,Henderson,2021,75
+21,Kentucky,21103,Henry,2020,48
+21,Kentucky,21103,Henry,2021,35
+21,Kentucky,21105,Hickman,2020,16
+21,Kentucky,21105,Hickman,2021,14
+21,Kentucky,21107,Hopkins,2020,50
+21,Kentucky,21107,Hopkins,2021,58
+21,Kentucky,21109,Jackson,2020,15
+21,Kentucky,21109,Jackson,2021,20
+21,Kentucky,21111,Jefferson,2020,2765
+21,Kentucky,21111,Jefferson,2021,3320
+21,Kentucky,21113,Jessamine,2020,121
+21,Kentucky,21113,Jessamine,2021,167
+21,Kentucky,21115,Johnson,2020,32
+21,Kentucky,21115,Johnson,2021,57
+21,Kentucky,21117,Kenton,2020,336
+21,Kentucky,21117,Kenton,2021,357
+21,Kentucky,21119,Knott,2020,9
+21,Kentucky,21119,Knott,2021,16
+21,Kentucky,21121,Knox,2020,47
+21,Kentucky,21121,Knox,2021,43
+21,Kentucky,21123,Larue,2020,24
+21,Kentucky,21123,Larue,2021,17
+21,Kentucky,21125,Laurel,2020,61
+21,Kentucky,21125,Laurel,2021,55
+21,Kentucky,21127,Lawrence,2020,26
+21,Kentucky,21127,Lawrence,2021,24
+21,Kentucky,21129,Lee,2020,14
+21,Kentucky,21131,Leslie,2020,13
+21,Kentucky,21131,Leslie,2021,21
+21,Kentucky,21133,Letcher,2020,27
+21,Kentucky,21133,Letcher,2021,30
+21,Kentucky,21135,Lewis,2020,8
+21,Kentucky,21135,Lewis,2021,6
+21,Kentucky,21137,Lincoln,2020,56
+21,Kentucky,21137,Lincoln,2021,82
+21,Kentucky,21139,Livingston,2020,9
+21,Kentucky,21139,Livingston,2021,13
+21,Kentucky,21141,Logan,2020,64
+21,Kentucky,21141,Logan,2021,86
+21,Kentucky,21143,Lyon,2020,9
+21,Kentucky,21143,Lyon,2021,13
+21,Kentucky,21151,Madison,2020,200
+21,Kentucky,21151,Madison,2021,170
+21,Kentucky,21153,Magoffin,2020,7
+21,Kentucky,21153,Magoffin,2021,20
+21,Kentucky,21155,Marion,2020,51
+21,Kentucky,21155,Marion,2021,41
+21,Kentucky,21157,Marshall,2020,34
+21,Kentucky,21157,Marshall,2021,23
+21,Kentucky,21159,Martin,2020,11
+21,Kentucky,21159,Martin,2021,15
+21,Kentucky,21161,Mason,2020,28
+21,Kentucky,21161,Mason,2021,44
+21,Kentucky,21145,Mccracken,2020,174
+21,Kentucky,21145,Mccracken,2021,158
+21,Kentucky,21147,Mccreary,2020,10
+21,Kentucky,21147,Mccreary,2021,16
+21,Kentucky,21149,Mclean,2020,8
+21,Kentucky,21149,Mclean,2021,13
+21,Kentucky,21163,Meade,2020,23
+21,Kentucky,21163,Meade,2021,27
+21,Kentucky,21165,Menifee,2020,7
+21,Kentucky,21167,Mercer,2020,64
+21,Kentucky,21167,Mercer,2021,66
+21,Kentucky,21169,Metcalfe,2020,21
+21,Kentucky,21169,Metcalfe,2021,12
+21,Kentucky,21171,Monroe,2020,40
+21,Kentucky,21171,Monroe,2021,33
+21,Kentucky,21173,Montgomery,2020,35
+21,Kentucky,21173,Montgomery,2021,47
+21,Kentucky,21175,Morgan,2020,25
+21,Kentucky,21175,Morgan,2021,30
+21,Kentucky,21177,Muhlenberg,2020,83
+21,Kentucky,21177,Muhlenberg,2021,76
+21,Kentucky,21179,Nelson,2020,100
+21,Kentucky,21179,Nelson,2021,111
+21,Kentucky,21181,Nicholas,2020,15
+21,Kentucky,21181,Nicholas,2021,10
+21,Kentucky,21183,Ohio,2020,43
+21,Kentucky,21183,Ohio,2021,48
+21,Kentucky,21185,Oldham,2020,79
+21,Kentucky,21185,Oldham,2021,98
+21,Kentucky,21187,Owen,2020,13
+21,Kentucky,21187,Owen,2021,14
+21,Kentucky,21191,Pendleton,2020,20
+21,Kentucky,21191,Pendleton,2021,14
+21,Kentucky,21193,Perry,2020,44
+21,Kentucky,21193,Perry,2021,32
+21,Kentucky,21195,Pike,2020,76
+21,Kentucky,21195,Pike,2021,61
+21,Kentucky,21197,Powell,2020,11
+21,Kentucky,21197,Powell,2021,27
+21,Kentucky,21199,Pulaski,2020,84
+21,Kentucky,21199,Pulaski,2021,133
+21,Kentucky,21201,Robertson,2021,0
+21,Kentucky,21203,Rockcastle,2020,26
+21,Kentucky,21203,Rockcastle,2021,31
+21,Kentucky,21205,Rowan,2020,46
+21,Kentucky,21205,Rowan,2021,55
+21,Kentucky,21207,Russell,2020,22
+21,Kentucky,21207,Russell,2021,23
+21,Kentucky,21209,Scott,2020,101
+21,Kentucky,21209,Scott,2021,105
+21,Kentucky,21211,Shelby,2020,95
+21,Kentucky,21211,Shelby,2021,96
+21,Kentucky,21213,Simpson,2020,36
+21,Kentucky,21213,Simpson,2021,50
+21,Kentucky,21215,Spencer,2020,18
+21,Kentucky,21215,Spencer,2021,39
+21,Kentucky,21217,Taylor,2020,56
+21,Kentucky,21217,Taylor,2021,70
+21,Kentucky,21219,Todd,2020,22
+21,Kentucky,21219,Todd,2021,18
+21,Kentucky,21221,Trigg,2020,12
+21,Kentucky,21221,Trigg,2021,16
+21,Kentucky,21223,Trimble,2020,10
+21,Kentucky,21223,Trimble,2021,18
+21,Kentucky,21225,Union,2020,35
+21,Kentucky,21225,Union,2021,31
+21,Kentucky,21227,Warren,2020,254
+21,Kentucky,21227,Warren,2021,243
+21,Kentucky,21229,Washington,2020,25
+21,Kentucky,21229,Washington,2021,32
+21,Kentucky,21231,Wayne,2020,23
+21,Kentucky,21231,Wayne,2021,45
+21,Kentucky,21233,Webster,2020,15
+21,Kentucky,21233,Webster,2021,13
+21,Kentucky,21235,Whitley,2020,71
+21,Kentucky,21235,Whitley,2021,50
+21,Kentucky,21237,Wolfe,2020,19
+21,Kentucky,21237,Wolfe,2021,18
+21,Kentucky,21239,Woodford,2020,34
+21,Kentucky,21239,Woodford,2021,47
+22,Louisiana,22001,Acadia,2020,126
+22,Louisiana,22003,Allen,2020,38
+22,Louisiana,22005,Ascension,2020,261
+22,Louisiana,22007,Assumption,2020,67
+22,Louisiana,22009,Avoyelles,2020,74
+22,Louisiana,22011,Beauregard,2020,83
+22,Louisiana,22013,Bienville,2020,29
+22,Louisiana,22015,Bossier,2020,454
+22,Louisiana,22017,Caddo,2020,1362
+22,Louisiana,22019,Calcasieu,2020,599
+22,Louisiana,22025,Catahoula,2020,17
+22,Louisiana,22027,Claiborne,2020,16
+22,Louisiana,22031,De Soto,2020,94
+22,Louisiana,22033,East Baton Rouge,2020,1362
+22,Louisiana,22037,East Feliciana,2020,40
+22,Louisiana,22039,Evangeline,2020,111
+22,Louisiana,22043,Grant,2020,46
+22,Louisiana,22045,Iberia,2020,278
+22,Louisiana,22047,Iberville,2020,110
+22,Louisiana,22049,Jackson,2020,26
+22,Louisiana,22051,Jefferson,2020,1860
+22,Louisiana,22053,Jefferson Davis,2020,16
+22,Louisiana,22059,La Salle,2020,31
+22,Louisiana,22055,Lafayette,2020,646
+22,Louisiana,22057,Lafourche,2020,272
+22,Louisiana,22061,Lincoln,2020,122
+22,Louisiana,22063,Livingston,2020,255
+22,Louisiana,22065,Madison,2020,52
+22,Louisiana,22067,Morehouse,2020,120
+22,Louisiana,22069,Natchitoches,2020,131
+22,Louisiana,22071,Orleans,2020,2153
+22,Louisiana,22073,Ouachita,2020,510
+22,Louisiana,22075,Plaquemines,2020,67
+22,Louisiana,22077,Pointe Coupee,2020,21
+22,Louisiana,22079,Rapides,2020,492
+22,Louisiana,22081,Red River,2020,62
+22,Louisiana,22083,Richland,2020,69
+22,Louisiana,22085,Sabine,2020,53
+22,Louisiana,22087,St. Bernard,2020,194
+22,Louisiana,22089,St. Charles,2020,159
+22,Louisiana,22091,St. Helena,2020,15
+22,Louisiana,22093,St. James,2020,80
+22,Louisiana,22095,St. John The Baptist,2020,234
+22,Louisiana,22097,St. Landry,2020,322
+22,Louisiana,22099,St. Martin,2020,55
+22,Louisiana,22101,St. Mary,2020,209
+22,Louisiana,22103,St. Tammany,2020,518
+22,Louisiana,22105,Tangipahoa,2020,392
+22,Louisiana,22109,Terrebonne,2020,395
+22,Louisiana,22111,Union,2020,53
+22,Louisiana,22113,Vermilion,2020,155
+22,Louisiana,22115,Vernon,2020,108
+22,Louisiana,22117,Washington,2020,39
+22,Louisiana,22119,Webster,2020,129
+22,Louisiana,22121,West Baton Rouge,2020,66
+22,Louisiana,22123,West Carroll,2020,0
+22,Louisiana,22125,West Feliciana,2020,8
+22,Louisiana,22127,Winn,2020,38
+23,Maine,23001,Androscoggin,2020,381
+23,Maine,23001,Androscoggin,2021,356
+23,Maine,23003,Aroostook,2020,183
+23,Maine,23003,Aroostook,2021,150
+23,Maine,23005,Cumberland,2020,449
+23,Maine,23005,Cumberland,2021,503
+23,Maine,23007,Franklin,2020,70
+23,Maine,23007,Franklin,2021,81
+23,Maine,23009,Hancock,2020,82
+23,Maine,23009,Hancock,2021,113
+23,Maine,23011,Kennebec,2020,251
+23,Maine,23011,Kennebec,2021,286
+23,Maine,23013,Knox,2020,66
+23,Maine,23013,Knox,2021,93
+23,Maine,23015,Lincoln,2020,65
+23,Maine,23015,Lincoln,2021,94
+23,Maine,23017,Oxford,2020,173
+23,Maine,23017,Oxford,2021,168
+23,Maine,23019,Penobscot,2020,245
+23,Maine,23019,Penobscot,2021,286
+23,Maine,23021,Piscataquis,2020,44
+23,Maine,23021,Piscataquis,2021,29
+23,Maine,23023,Sagadahoc,2020,69
+23,Maine,23023,Sagadahoc,2021,71
+23,Maine,23025,Somerset,2020,174
+23,Maine,23025,Somerset,2021,179
+23,Maine,23027,Waldo,2020,58
+23,Maine,23027,Waldo,2021,60
+23,Maine,23029,Washington,2020,72
+23,Maine,23029,Washington,2021,88
+23,Maine,23031,York,2020,316
+23,Maine,23031,York,2021,342
+24,Maryland,24001,Allegany,2020,174
+24,Maryland,24003,Anne Arundel,2020,996
+24,Maryland,24005,Baltimore,2020,2369
+24,Maryland,24510,Baltimore City,2020,5509
+24,Maryland,24009,Calvert,2020,186
+24,Maryland,24011,Caroline,2020,111
+24,Maryland,24013,Carroll,2020,183
+24,Maryland,24015,Cecil,2020,164
+24,Maryland,24017,Charles,2020,400
+24,Maryland,24019,Dorchester,2020,188
+24,Maryland,24021,Frederick,2020,398
+24,Maryland,24023,Garrett,2020,58
+24,Maryland,24025,Harford,2020,483
+24,Maryland,24027,Howard,2020,420
+24,Maryland,24029,Kent,2020,68
+24,Maryland,24031,Montgomery,2020,1356
+24,Maryland,24033,Prince George's,2020,1899
+24,Maryland,24035,Queen Anne's,2020,119
+24,Maryland,24039,Somerset,2020,142
+24,Maryland,24037,St. Mary's,2020,260
+24,Maryland,24041,Talbot,2020,76
+24,Maryland,24043,Washington,2020,381
+24,Maryland,24045,Wicomico,2020,464
+24,Maryland,24047,Worcester,2020,156
+25,Massachusetts,25001,Barnstable,2020,510
+25,Massachusetts,25003,Berkshire,2020,374
+25,Massachusetts,25005,Bristol,2020,1997
+25,Massachusetts,25007,Dukes,2020,64
+25,Massachusetts,25009,Essex,2020,2378
+25,Massachusetts,25011,Franklin,2020,213
+25,Massachusetts,25013,Hampden,2020,2704
+25,Massachusetts,25015,Hampshire,2020,290
+25,Massachusetts,25017,Middlesex,2020,2768
+25,Massachusetts,25019,Nantucket,2020,56
+25,Massachusetts,25021,Norfolk,2020,1200
+25,Massachusetts,25023,Plymouth,2020,1456
+25,Massachusetts,25025,Suffolk,2020,3027
+25,Massachusetts,25027,Worcester,2020,2152
+26,Michigan,26001,Alcona,2020,10
+26,Michigan,26001,Alcona,2021,25
+26,Michigan,26003,Alger,2020,17
+26,Michigan,26003,Alger,2021,9
+26,Michigan,26005,Allegan,2020,200
+26,Michigan,26005,Allegan,2021,245
+26,Michigan,26007,Alpena,2020,57
+26,Michigan,26007,Alpena,2021,65
+26,Michigan,26009,Antrim,2020,34
+26,Michigan,26009,Antrim,2021,43
+26,Michigan,26011,Arenac,2020,40
+26,Michigan,26011,Arenac,2021,36
+26,Michigan,26013,Baraga,2020,7
+26,Michigan,26013,Baraga,2021,19
+26,Michigan,26015,Barry,2020,88
+26,Michigan,26015,Barry,2021,91
+26,Michigan,26017,Bay,2020,240
+26,Michigan,26017,Bay,2021,271
+26,Michigan,26019,Benzie,2020,25
+26,Michigan,26019,Benzie,2021,23
+26,Michigan,26021,Berrien,2020,648
+26,Michigan,26021,Berrien,2021,656
+26,Michigan,26023,Branch,2020,90
+26,Michigan,26023,Branch,2021,104
+26,Michigan,26025,Calhoun,2020,355
+26,Michigan,26025,Calhoun,2021,358
+26,Michigan,26027,Cass,2020,86
+26,Michigan,26027,Cass,2021,110
+26,Michigan,26029,Charlevoix,2020,50
+26,Michigan,26029,Charlevoix,2021,55
+26,Michigan,26031,Cheboygan,2020,61
+26,Michigan,26031,Cheboygan,2021,61
+26,Michigan,26033,Chippewa,2020,87
+26,Michigan,26033,Chippewa,2021,73
+26,Michigan,26035,Clare,2020,59
+26,Michigan,26035,Clare,2021,90
+26,Michigan,26037,Clinton,2020,81
+26,Michigan,26037,Clinton,2021,124
+26,Michigan,26039,Crawford,2020,26
+26,Michigan,26039,Crawford,2021,24
+26,Michigan,26041,Delta,2020,77
+26,Michigan,26041,Delta,2021,57
+26,Michigan,26043,Dickinson,2020,45
+26,Michigan,26043,Dickinson,2021,39
+26,Michigan,26045,Eaton,2020,230
+26,Michigan,26045,Eaton,2021,284
+26,Michigan,26047,Emmet,2020,57
+26,Michigan,26047,Emmet,2021,58
+26,Michigan,26049,Genesee,2020,1415
+26,Michigan,26049,Genesee,2021,1515
+26,Michigan,26051,Gladwin,2020,49
+26,Michigan,26051,Gladwin,2021,77
+26,Michigan,26053,Gogebic,2020,44
+26,Michigan,26053,Gogebic,2021,36
+26,Michigan,26055,Grand Traverse,2020,91
+26,Michigan,26055,Grand Traverse,2021,93
+26,Michigan,26057,Gratiot,2020,62
+26,Michigan,26057,Gratiot,2021,74
+26,Michigan,26059,Hillsdale,2020,124
+26,Michigan,26059,Hillsdale,2021,108
+26,Michigan,26061,Houghton,2020,58
+26,Michigan,26061,Houghton,2021,56
+26,Michigan,26063,Huron,2020,48
+26,Michigan,26063,Huron,2021,76
+26,Michigan,26065,Ingham,2020,683
+26,Michigan,26065,Ingham,2021,747
+26,Michigan,26067,Ionia,2020,110
+26,Michigan,26067,Ionia,2021,144
+26,Michigan,26069,Iosco,2020,55
+26,Michigan,26069,Iosco,2021,74
+26,Michigan,26071,Iron,2020,32
+26,Michigan,26071,Iron,2021,46
+26,Michigan,26073,Isabella,2020,178
+26,Michigan,26073,Isabella,2021,193
+26,Michigan,26075,Jackson,2020,417
+26,Michigan,26075,Jackson,2021,345
+26,Michigan,26077,Kalamazoo,2020,622
+26,Michigan,26077,Kalamazoo,2021,558
+26,Michigan,26079,Kalkaska,2020,31
+26,Michigan,26079,Kalkaska,2021,45
+26,Michigan,26081,Kent,2020,1898
+26,Michigan,26081,Kent,2021,2020
+26,Michigan,26085,Lake,2020,31
+26,Michigan,26085,Lake,2021,43
+26,Michigan,26087,Lapeer,2020,118
+26,Michigan,26087,Lapeer,2021,122
+26,Michigan,26089,Leelanau,2020,16
+26,Michigan,26089,Leelanau,2021,19
+26,Michigan,26091,Lenawee,2020,200
+26,Michigan,26091,Lenawee,2021,211
+26,Michigan,26093,Livingston,2020,206
+26,Michigan,26093,Livingston,2021,241
+26,Michigan,26095,Luce,2020,14
+26,Michigan,26095,Luce,2021,13
+26,Michigan,26097,Mackinac,2020,23
+26,Michigan,26097,Mackinac,2021,33
+26,Michigan,26099,Macomb,2020,2070
+26,Michigan,26099,Macomb,2021,2472
+26,Michigan,26101,Manistee,2020,36
+26,Michigan,26101,Manistee,2021,53
+26,Michigan,26103,Marquette,2020,169
+26,Michigan,26103,Marquette,2021,151
+26,Michigan,26105,Mason,2020,104
+26,Michigan,26105,Mason,2021,86
+26,Michigan,26107,Mecosta,2020,94
+26,Michigan,26107,Mecosta,2021,88
+26,Michigan,26109,Menominee,2020,29
+26,Michigan,26109,Menominee,2021,37
+26,Michigan,26111,Midland,2020,137
+26,Michigan,26111,Midland,2021,154
+26,Michigan,26113,Missaukee,2020,35
+26,Michigan,26113,Missaukee,2021,32
+26,Michigan,26115,Monroe,2020,272
+26,Michigan,26115,Monroe,2021,278
+26,Michigan,26117,Montcalm,2020,133
+26,Michigan,26117,Montcalm,2021,132
+26,Michigan,26119,Montmorency,2020,10
+26,Michigan,26119,Montmorency,2021,13
+26,Michigan,26121,Muskegon,2020,650
+26,Michigan,26121,Muskegon,2021,696
+26,Michigan,26123,Newaygo,2020,105
+26,Michigan,26123,Newaygo,2021,134
+26,Michigan,26125,Oakland,2020,2542
+26,Michigan,26125,Oakland,2021,2725
+26,Michigan,26127,Oceana,2020,52
+26,Michigan,26127,Oceana,2021,55
+26,Michigan,26129,Ogemaw,2020,38
+26,Michigan,26129,Ogemaw,2021,55
+26,Michigan,26131,Ontonagon,2020,14
+26,Michigan,26133,Osceola,2020,70
+26,Michigan,26133,Osceola,2021,81
+26,Michigan,26135,Oscoda,2020,13
+26,Michigan,26135,Oscoda,2021,24
+26,Michigan,26137,Otsego,2020,42
+26,Michigan,26137,Otsego,2021,53
+26,Michigan,26139,Ottawa,2020,355
+26,Michigan,26139,Ottawa,2021,430
+26,Michigan,26141,Presque Isle,2020,12
+26,Michigan,26141,Presque Isle,2021,8
+26,Michigan,26143,Roscommon,2020,45
+26,Michigan,26143,Roscommon,2021,37
+26,Michigan,26145,Saginaw,2020,884
+26,Michigan,26145,Saginaw,2021,983
+26,Michigan,26151,Sanilac,2020,97
+26,Michigan,26151,Sanilac,2021,104
+26,Michigan,26153,Schoolcraft,2021,25
+26,Michigan,26155,Shiawassee,2020,106
+26,Michigan,26155,Shiawassee,2021,144
+26,Michigan,26147,St. Clair,2020,422
+26,Michigan,26147,St. Clair,2021,410
+26,Michigan,26149,St. Joseph,2020,136
+26,Michigan,26149,St. Joseph,2021,166
+26,Michigan,26157,Tuscola,2020,94
+26,Michigan,26157,Tuscola,2021,125
+26,Michigan,26159,Van Buren,2020,185
+26,Michigan,26159,Van Buren,2021,195
+26,Michigan,26161,Washtenaw,2020,520
+26,Michigan,26161,Washtenaw,2021,609
+26,Michigan,26163,Wayne,2020,10289
+26,Michigan,26163,Wayne,2021,10937
+26,Michigan,26165,Wexford,2020,75
+26,Michigan,26165,Wexford,2021,86
+27,Minnesota,27001,Aitkin,2020,9
+27,Minnesota,27001,Aitkin,2021,7
+27,Minnesota,27003,Anoka,2020,496
+27,Minnesota,27003,Anoka,2021,639
+27,Minnesota,27005,Becker,2020,20
+27,Minnesota,27005,Becker,2021,17
+27,Minnesota,27007,Beltrami,2020,38
+27,Minnesota,27007,Beltrami,2021,40
+27,Minnesota,27009,Benton,2020,32
+27,Minnesota,27009,Benton,2021,35
+27,Minnesota,27011,Big Stone,2020,0
+27,Minnesota,27011,Big Stone,2021,0
+27,Minnesota,27013,Blue Earth,2020,171
+27,Minnesota,27013,Blue Earth,2021,176
+27,Minnesota,27017,Carlton,2020,32
+27,Minnesota,27017,Carlton,2021,23
+27,Minnesota,27019,Carver,2020,85
+27,Minnesota,27019,Carver,2021,97
+27,Minnesota,27021,Cass,2020,38
+27,Minnesota,27021,Cass,2021,27
+27,Minnesota,27023,Chippewa,2020,9
+27,Minnesota,27023,Chippewa,2021,12
+27,Minnesota,27025,Chisago,2020,29
+27,Minnesota,27025,Chisago,2021,28
+27,Minnesota,27027,Clay,2020,96
+27,Minnesota,27027,Clay,2021,131
+27,Minnesota,27029,Clearwater,2020,6
+27,Minnesota,27031,Cook,2021,12
+27,Minnesota,27035,Crow Wing,2020,74
+27,Minnesota,27035,Crow Wing,2021,61
+27,Minnesota,27037,Dakota,2020,640
+27,Minnesota,27037,Dakota,2021,768
+27,Minnesota,27039,Dodge,2020,13
+27,Minnesota,27039,Dodge,2021,18
+27,Minnesota,27041,Douglas,2020,28
+27,Minnesota,27041,Douglas,2021,42
+27,Minnesota,27043,Faribault,2021,11
+27,Minnesota,27045,Fillmore,2020,9
+27,Minnesota,27045,Fillmore,2021,13
+27,Minnesota,27047,Freeborn,2020,90
+27,Minnesota,27047,Freeborn,2021,109
+27,Minnesota,27049,Goodhue,2020,109
+27,Minnesota,27049,Goodhue,2021,132
+27,Minnesota,27053,Hennepin,2020,2751
+27,Minnesota,27053,Hennepin,2021,3595
+27,Minnesota,27055,Houston,2020,0
+27,Minnesota,27055,Houston,2021,0
+27,Minnesota,27057,Hubbard,2020,8
+27,Minnesota,27057,Hubbard,2021,15
+27,Minnesota,27059,Isanti,2020,37
+27,Minnesota,27059,Isanti,2021,43
+27,Minnesota,27061,Itasca,2020,64
+27,Minnesota,27061,Itasca,2021,96
+27,Minnesota,27063,Jackson,2020,10
+27,Minnesota,27063,Jackson,2021,15
+27,Minnesota,27065,Kanabec,2020,28
+27,Minnesota,27065,Kanabec,2021,37
+27,Minnesota,27067,Kandiyohi,2020,82
+27,Minnesota,27067,Kandiyohi,2021,89
+27,Minnesota,27069,Kittson,2020,0
+27,Minnesota,27071,Koochiching,2020,22
+27,Minnesota,27071,Koochiching,2021,30
+27,Minnesota,27073,Lac Qui Parle,2020,8
+27,Minnesota,27073,Lac Qui Parle,2021,9
+27,Minnesota,27075,Lake,2020,6
+27,Minnesota,27075,Lake,2021,13
+27,Minnesota,27077,Lake Of The Woods,2020,7
+27,Minnesota,27079,Le Sueur,2020,25
+27,Minnesota,27079,Le Sueur,2021,30
+27,Minnesota,27083,Lyon,2020,41
+27,Minnesota,27083,Lyon,2021,52
+27,Minnesota,27087,Mahnomen,2021,8
+27,Minnesota,27089,Marshall,2020,7
+27,Minnesota,27091,Martin,2020,51
+27,Minnesota,27091,Martin,2021,68
+27,Minnesota,27085,Mcleod,2020,11
+27,Minnesota,27085,Mcleod,2021,25
+27,Minnesota,27093,Meeker,2020,25
+27,Minnesota,27093,Meeker,2021,23
+27,Minnesota,27095,Mille Lacs,2020,46
+27,Minnesota,27095,Mille Lacs,2021,56
+27,Minnesota,27097,Morrison,2020,40
+27,Minnesota,27097,Morrison,2021,55
+27,Minnesota,27099,Mower,2020,51
+27,Minnesota,27099,Mower,2021,62
+27,Minnesota,27101,Murray,2020,6
+27,Minnesota,27101,Murray,2021,12
+27,Minnesota,27103,Nicollet,2020,41
+27,Minnesota,27103,Nicollet,2021,49
+27,Minnesota,27105,Nobles,2021,6
+27,Minnesota,27107,Norman,2020,6
+27,Minnesota,27107,Norman,2021,8
+27,Minnesota,27109,Olmsted,2020,266
+27,Minnesota,27109,Olmsted,2021,329
+27,Minnesota,27111,Otter Tail,2020,72
+27,Minnesota,27111,Otter Tail,2021,96
+27,Minnesota,27115,Pine,2020,32
+27,Minnesota,27115,Pine,2021,37
+27,Minnesota,27117,Pipestone,2020,0
+27,Minnesota,27117,Pipestone,2021,0
+27,Minnesota,27119,Polk,2020,42
+27,Minnesota,27119,Polk,2021,42
+27,Minnesota,27123,Ramsey,2020,1503
+27,Minnesota,27123,Ramsey,2021,1836
+27,Minnesota,27125,Red Lake,2021,0
+27,Minnesota,27127,Redwood,2021,6
+27,Minnesota,27129,Renville,2020,9
+27,Minnesota,27129,Renville,2021,12
+27,Minnesota,27131,Rice,2020,66
+27,Minnesota,27131,Rice,2021,102
+27,Minnesota,27133,Rock,2020,15
+27,Minnesota,27133,Rock,2021,14
+27,Minnesota,27135,Roseau,2020,29
+27,Minnesota,27135,Roseau,2021,46
+27,Minnesota,27139,Scott,2020,250
+27,Minnesota,27139,Scott,2021,321
+27,Minnesota,27141,Sherburne,2020,71
+27,Minnesota,27141,Sherburne,2021,131
+27,Minnesota,27143,Sibley,2020,17
+27,Minnesota,27143,Sibley,2021,20
+27,Minnesota,27137,St. Louis,2020,428
+27,Minnesota,27137,St. Louis,2021,464
+27,Minnesota,27145,Stearns,2020,251
+27,Minnesota,27145,Stearns,2021,280
+27,Minnesota,27147,Steele,2020,81
+27,Minnesota,27147,Steele,2021,152
+27,Minnesota,27149,Stevens,2020,6
+27,Minnesota,27149,Stevens,2021,6
+27,Minnesota,27153,Todd,2020,29
+27,Minnesota,27153,Todd,2021,33
+27,Minnesota,27157,Wabasha,2020,12
+27,Minnesota,27157,Wabasha,2021,17
+27,Minnesota,27159,Wadena,2021,6
+27,Minnesota,27161,Waseca,2020,12
+27,Minnesota,27161,Waseca,2021,15
+27,Minnesota,27163,Washington,2020,277
+27,Minnesota,27163,Washington,2021,317
+27,Minnesota,27165,Watonwan,2020,8
+27,Minnesota,27165,Watonwan,2021,6
+27,Minnesota,27167,Wilkin,2020,8
+27,Minnesota,27167,Wilkin,2021,15
+27,Minnesota,27169,Winona,2020,67
+27,Minnesota,27169,Winona,2021,46
+27,Minnesota,27171,Wright,2020,124
+27,Minnesota,27171,Wright,2021,163
+29,Missouri,29001,Adair,2020,24
+29,Missouri,29001,Adair,2021,40
+29,Missouri,29003,Andrew,2020,16
+29,Missouri,29003,Andrew,2021,23
+29,Missouri,29005,Atchison,2021,10
+29,Missouri,29007,Audrain,2020,101
+29,Missouri,29007,Audrain,2021,34
+29,Missouri,29009,Barry,2020,50
+29,Missouri,29009,Barry,2021,90
+29,Missouri,29011,Barton,2020,29
+29,Missouri,29011,Barton,2021,21
+29,Missouri,29013,Bates,2020,45
+29,Missouri,29013,Bates,2021,58
+29,Missouri,29015,Benton,2020,32
+29,Missouri,29015,Benton,2021,25
+29,Missouri,29017,Bollinger,2020,7
+29,Missouri,29019,Boone,2020,489
+29,Missouri,29019,Boone,2021,544
+29,Missouri,29021,Buchanan,2020,213
+29,Missouri,29021,Buchanan,2021,223
+29,Missouri,29023,Butler,2020,94
+29,Missouri,29023,Butler,2021,104
+29,Missouri,29025,Caldwell,2020,11
+29,Missouri,29025,Caldwell,2021,18
+29,Missouri,29027,Callaway,2020,139
+29,Missouri,29027,Callaway,2021,92
+29,Missouri,29029,Camden,2020,57
+29,Missouri,29029,Camden,2021,35
+29,Missouri,29031,Cape Girardeau,2020,150
+29,Missouri,29031,Cape Girardeau,2021,164
+29,Missouri,29033,Carroll,2020,14
+29,Missouri,29033,Carroll,2021,22
+29,Missouri,29035,Carter,2021,6
+29,Missouri,29037,Cass,2020,227
+29,Missouri,29037,Cass,2021,224
+29,Missouri,29039,Cedar,2020,23
+29,Missouri,29039,Cedar,2021,20
+29,Missouri,29043,Christian,2020,63
+29,Missouri,29043,Christian,2021,67
+29,Missouri,29045,Clark,2021,7
+29,Missouri,29047,Clay,2020,507
+29,Missouri,29047,Clay,2021,705
+29,Missouri,29049,Clinton,2020,44
+29,Missouri,29049,Clinton,2021,42
+29,Missouri,29051,Cole,2020,275
+29,Missouri,29051,Cole,2021,284
+29,Missouri,29053,Cooper,2020,29
+29,Missouri,29053,Cooper,2021,34
+29,Missouri,29055,Crawford,2020,41
+29,Missouri,29055,Crawford,2021,51
+29,Missouri,29057,Dade,2020,11
+29,Missouri,29057,Dade,2021,7
+29,Missouri,29059,Dallas,2020,18
+29,Missouri,29059,Dallas,2021,23
+29,Missouri,29061,Daviess,2020,16
+29,Missouri,29061,Daviess,2021,10
+29,Missouri,29063,Dekalb,2020,16
+29,Missouri,29063,Dekalb,2021,27
+29,Missouri,29065,Dent,2020,44
+29,Missouri,29065,Dent,2021,36
+29,Missouri,29069,Dunklin,2020,31
+29,Missouri,29069,Dunklin,2021,50
+29,Missouri,29071,Franklin,2020,219
+29,Missouri,29071,Franklin,2021,235
+29,Missouri,29073,Gasconade,2020,16
+29,Missouri,29073,Gasconade,2021,24
+29,Missouri,29075,Gentry,2020,16
+29,Missouri,29075,Gentry,2021,18
+29,Missouri,29077,Greene,2020,432
+29,Missouri,29077,Greene,2021,459
+29,Missouri,29079,Grundy,2020,17
+29,Missouri,29079,Grundy,2021,17
+29,Missouri,29081,Harrison,2020,18
+29,Missouri,29081,Harrison,2021,18
+29,Missouri,29083,Henry,2020,64
+29,Missouri,29083,Henry,2021,52
+29,Missouri,29085,Hickory,2020,7
+29,Missouri,29085,Hickory,2021,7
+29,Missouri,29087,Holt,2020,10
+29,Missouri,29087,Holt,2021,11
+29,Missouri,29089,Howard,2020,15
+29,Missouri,29089,Howard,2021,15
+29,Missouri,29091,Howell,2020,64
+29,Missouri,29091,Howell,2021,85
+29,Missouri,29093,Iron,2020,37
+29,Missouri,29093,Iron,2021,35
+29,Missouri,29095,Jackson,2020,3485
+29,Missouri,29095,Jackson,2021,3930
+29,Missouri,29097,Jasper,2020,273
+29,Missouri,29097,Jasper,2021,277
+29,Missouri,29099,Jefferson,2020,388
+29,Missouri,29099,Jefferson,2021,397
+29,Missouri,29101,Johnson,2020,117
+29,Missouri,29101,Johnson,2021,142
+29,Missouri,29105,Laclede,2020,80
+29,Missouri,29105,Laclede,2021,88
+29,Missouri,29107,Lafayette,2020,108
+29,Missouri,29107,Lafayette,2021,102
+29,Missouri,29109,Lawrence,2020,84
+29,Missouri,29109,Lawrence,2021,73
+29,Missouri,29113,Lincoln,2020,192
+29,Missouri,29113,Lincoln,2021,218
+29,Missouri,29115,Linn,2020,23
+29,Missouri,29115,Linn,2021,25
+29,Missouri,29117,Livingston,2020,53
+29,Missouri,29117,Livingston,2021,30
+29,Missouri,29121,Macon,2020,32
+29,Missouri,29121,Macon,2021,31
+29,Missouri,29123,Madison,2020,33
+29,Missouri,29123,Madison,2021,31
+29,Missouri,29125,Maries,2020,9
+29,Missouri,29125,Maries,2021,11
+29,Missouri,29127,Marion,2020,69
+29,Missouri,29127,Marion,2021,81
+29,Missouri,29119,Mcdonald,2020,21
+29,Missouri,29119,Mcdonald,2021,19
+29,Missouri,29129,Mercer,2020,7
+29,Missouri,29131,Miller,2020,49
+29,Missouri,29131,Miller,2021,26
+29,Missouri,29133,Mississippi,2020,41
+29,Missouri,29133,Mississippi,2021,41
+29,Missouri,29135,Moniteau,2020,18
+29,Missouri,29135,Moniteau,2021,45
+29,Missouri,29137,Monroe,2020,18
+29,Missouri,29137,Monroe,2021,12
+29,Missouri,29139,Montgomery,2020,18
+29,Missouri,29139,Montgomery,2021,32
+29,Missouri,29141,Morgan,2020,23
+29,Missouri,29141,Morgan,2021,31
+29,Missouri,29143,New Madrid,2020,36
+29,Missouri,29143,New Madrid,2021,36
+29,Missouri,29145,Newton,2020,75
+29,Missouri,29145,Newton,2021,125
+29,Missouri,29147,Nodaway,2020,26
+29,Missouri,29147,Nodaway,2021,42
+29,Missouri,29149,Oregon,2020,20
+29,Missouri,29149,Oregon,2021,17
+29,Missouri,29151,Osage,2020,14
+29,Missouri,29151,Osage,2021,15
+29,Missouri,29153,Ozark,2020,9
+29,Missouri,29153,Ozark,2021,6
+29,Missouri,29155,Pemiscot,2020,34
+29,Missouri,29155,Pemiscot,2021,54
+29,Missouri,29157,Perry,2020,25
+29,Missouri,29157,Perry,2021,20
+29,Missouri,29159,Pettis,2020,175
+29,Missouri,29159,Pettis,2021,101
+29,Missouri,29161,Phelps,2020,80
+29,Missouri,29161,Phelps,2021,103
+29,Missouri,29163,Pike,2020,51
+29,Missouri,29163,Pike,2021,38
+29,Missouri,29165,Platte,2020,135
+29,Missouri,29165,Platte,2021,185
+29,Missouri,29167,Polk,2020,25
+29,Missouri,29167,Polk,2021,39
+29,Missouri,29169,Pulaski,2020,48
+29,Missouri,29169,Pulaski,2021,51
+29,Missouri,29171,Putnam,2020,9
+29,Missouri,29171,Putnam,2021,13
+29,Missouri,29173,Ralls,2020,10
+29,Missouri,29173,Ralls,2021,8
+29,Missouri,29175,Randolph,2020,84
+29,Missouri,29175,Randolph,2021,73
+29,Missouri,29177,Ray,2020,48
+29,Missouri,29177,Ray,2021,66
+29,Missouri,29179,Reynolds,2020,16
+29,Missouri,29179,Reynolds,2021,10
+29,Missouri,29181,Ripley,2020,22
+29,Missouri,29181,Ripley,2021,31
+29,Missouri,29195,Saline,2020,49
+29,Missouri,29195,Saline,2021,71
+29,Missouri,29197,Schuyler,2021,12
+29,Missouri,29199,Scotland,2020,6
+29,Missouri,29199,Scotland,2021,6
+29,Missouri,29201,Scott,2020,114
+29,Missouri,29201,Scott,2021,123
+29,Missouri,29203,Shannon,2020,11
+29,Missouri,29203,Shannon,2021,11
+29,Missouri,29205,Shelby,2020,11
+29,Missouri,29205,Shelby,2021,7
+29,Missouri,29183,St. Charles,2020,605
+29,Missouri,29183,St. Charles,2021,812
+29,Missouri,29185,St. Clair,2020,18
+29,Missouri,29185,St. Clair,2021,14
+29,Missouri,29187,St. Francois,2020,141
+29,Missouri,29187,St. Francois,2021,166
+29,Missouri,29189,St. Louis,2020,3700
+29,Missouri,29189,St. Louis,2021,4049
+29,Missouri,29510,St. Louis City,2020,2190
+29,Missouri,29510,St. Louis City,2021,2081
+29,Missouri,29186,Ste. Genevieve,2020,29
+29,Missouri,29186,Ste. Genevieve,2021,23
+29,Missouri,29207,Stoddard,2020,40
+29,Missouri,29207,Stoddard,2021,37
+29,Missouri,29209,Stone,2020,39
+29,Missouri,29209,Stone,2021,37
+29,Missouri,29211,Sullivan,2020,16
+29,Missouri,29211,Sullivan,2021,6
+29,Missouri,29213,Taney,2020,132
+29,Missouri,29213,Taney,2021,132
+29,Missouri,29215,Texas,2020,45
+29,Missouri,29215,Texas,2021,44
+29,Missouri,29217,Vernon,2020,46
+29,Missouri,29217,Vernon,2021,55
+29,Missouri,29219,Warren,2020,66
+29,Missouri,29219,Warren,2021,62
+29,Missouri,29221,Washington,2020,73
+29,Missouri,29221,Washington,2021,63
+29,Missouri,29223,Wayne,2020,23
+29,Missouri,29223,Wayne,2021,16
+29,Missouri,29225,Webster,2020,41
+29,Missouri,29225,Webster,2021,55
+29,Missouri,29227,Worth,2020,0
+29,Missouri,29229,Wright,2020,22
+29,Missouri,29229,Wright,2021,20
+31,Nebraska,31001,Adams,2020,63
+31,Nebraska,31001,Adams,2021,53
+31,Nebraska,31003,Antelope,2021,7
+31,Nebraska,31005,Arthur,2020,0
+31,Nebraska,31007,Banner,2020,0
+31,Nebraska,31007,Banner,2021,0
+31,Nebraska,31009,Blaine,2021,0
+31,Nebraska,31013,Box Butte,2020,20
+31,Nebraska,31013,Box Butte,2021,23
+31,Nebraska,31015,Boyd,2021,0
+31,Nebraska,31019,Buffalo,2020,71
+31,Nebraska,31019,Buffalo,2021,79
+31,Nebraska,31021,Burt,2021,6
+31,Nebraska,31023,Butler,2020,7
+31,Nebraska,31023,Butler,2021,9
+31,Nebraska,31025,Cass,2020,39
+31,Nebraska,31025,Cass,2021,27
+31,Nebraska,31031,Cherry,2020,7
+31,Nebraska,31031,Cherry,2021,15
+31,Nebraska,31033,Cheyenne,2020,14
+31,Nebraska,31033,Cheyenne,2021,13
+31,Nebraska,31035,Clay,2020,9
+31,Nebraska,31035,Clay,2021,14
+31,Nebraska,31037,Colfax,2020,15
+31,Nebraska,31037,Colfax,2021,18
+31,Nebraska,31039,Cuming,2020,0
+31,Nebraska,31039,Cuming,2021,7
+31,Nebraska,31041,Custer,2020,16
+31,Nebraska,31041,Custer,2021,25
+31,Nebraska,31043,Dakota,2020,0
+31,Nebraska,31043,Dakota,2021,0
+31,Nebraska,31045,Dawes,2020,8
+31,Nebraska,31045,Dawes,2021,9
+31,Nebraska,31047,Dawson,2020,17
+31,Nebraska,31047,Dawson,2021,31
+31,Nebraska,31049,Deuel,2020,0
+31,Nebraska,31049,Deuel,2021,0
+31,Nebraska,31051,Dixon,2021,0
+31,Nebraska,31053,Dodge,2020,39
+31,Nebraska,31053,Dodge,2021,46
+31,Nebraska,31055,Douglas,2020,1231
+31,Nebraska,31055,Douglas,2021,1784
+31,Nebraska,31057,Dundy,2020,0
+31,Nebraska,31059,Fillmore,2020,12
+31,Nebraska,31059,Fillmore,2021,6
+31,Nebraska,31063,Frontier,2020,7
+31,Nebraska,31065,Furnas,2020,6
+31,Nebraska,31065,Furnas,2021,11
+31,Nebraska,31067,Gage,2020,24
+31,Nebraska,31067,Gage,2021,53
+31,Nebraska,31069,Garden,2020,0
+31,Nebraska,31069,Garden,2021,0
+31,Nebraska,31073,Gosper,2021,0
+31,Nebraska,31075,Grant,2020,0
+31,Nebraska,31075,Grant,2021,0
+31,Nebraska,31079,Hall,2020,102
+31,Nebraska,31079,Hall,2021,173
+31,Nebraska,31081,Hamilton,2020,14
+31,Nebraska,31081,Hamilton,2021,20
+31,Nebraska,31083,Harlan,2021,11
+31,Nebraska,31087,Hitchcock,2020,0
+31,Nebraska,31089,Holt,2021,9
+31,Nebraska,31091,Hooker,2020,0
+31,Nebraska,31095,Jefferson,2020,7
+31,Nebraska,31095,Jefferson,2021,14
+31,Nebraska,31097,Johnson,2020,13
+31,Nebraska,31097,Johnson,2021,9
+31,Nebraska,31099,Kearney,2020,6
+31,Nebraska,31099,Kearney,2021,11
+31,Nebraska,31101,Keith,2021,7
+31,Nebraska,31103,Keya Paha,2020,0
+31,Nebraska,31105,Kimball,2020,7
+31,Nebraska,31105,Kimball,2021,7
+31,Nebraska,31109,Lancaster,2020,543
+31,Nebraska,31109,Lancaster,2021,554
+31,Nebraska,31111,Lincoln,2020,80
+31,Nebraska,31111,Lincoln,2021,66
+31,Nebraska,31113,Logan,2020,0
+31,Nebraska,31115,Loup,2020,0
+31,Nebraska,31115,Loup,2021,0
+31,Nebraska,31119,Madison,2020,25
+31,Nebraska,31119,Madison,2021,38
+31,Nebraska,31117,Mcpherson,2020,0
+31,Nebraska,31117,Mcpherson,2021,0
+31,Nebraska,31121,Merrick,2020,10
+31,Nebraska,31121,Merrick,2021,14
+31,Nebraska,31125,Nance,2020,0
+31,Nebraska,31127,Nemaha,2020,15
+31,Nebraska,31127,Nemaha,2021,10
+31,Nebraska,31129,Nuckolls,2021,7
+31,Nebraska,31131,Otoe,2020,20
+31,Nebraska,31131,Otoe,2021,29
+31,Nebraska,31135,Perkins,2021,7
+31,Nebraska,31137,Phelps,2020,10
+31,Nebraska,31137,Phelps,2021,17
+31,Nebraska,31139,Pierce,2020,8
+31,Nebraska,31141,Platte,2020,44
+31,Nebraska,31141,Platte,2021,61
+31,Nebraska,31143,Polk,2021,8
+31,Nebraska,31145,Red Willow,2020,8
+31,Nebraska,31145,Red Willow,2021,16
+31,Nebraska,31147,Richardson,2021,10
+31,Nebraska,31149,Rock,2021,0
+31,Nebraska,31151,Saline,2020,8
+31,Nebraska,31151,Saline,2021,22
+31,Nebraska,31153,Sarpy,2020,227
+31,Nebraska,31153,Sarpy,2021,291
+31,Nebraska,31155,Saunders,2020,19
+31,Nebraska,31155,Saunders,2021,19
+31,Nebraska,31157,Scotts Bluff,2020,55
+31,Nebraska,31157,Scotts Bluff,2021,49
+31,Nebraska,31159,Seward,2020,13
+31,Nebraska,31159,Seward,2021,12
+31,Nebraska,31161,Sheridan,2021,6
+31,Nebraska,31163,Sherman,2021,9
+31,Nebraska,31165,Sioux,2020,0
+31,Nebraska,31165,Sioux,2021,0
+31,Nebraska,31167,Stanton,2020,8
+31,Nebraska,31169,Thayer,2020,7
+31,Nebraska,31171,Thomas,2020,0
+31,Nebraska,31171,Thomas,2021,0
+31,Nebraska,31177,Washington,2020,34
+31,Nebraska,31177,Washington,2021,23
+31,Nebraska,31179,Wayne,2020,7
+31,Nebraska,31179,Wayne,2021,7
+31,Nebraska,31183,Wheeler,2020,0
+31,Nebraska,31183,Wheeler,2021,0
+31,Nebraska,31185,York,2020,9
+31,Nebraska,31185,York,2021,26
+33,New Hampshire,33001,Belknap,2020,158
+33,New Hampshire,33001,Belknap,2021,147
+33,New Hampshire,33003,Carroll,2020,92
+33,New Hampshire,33003,Carroll,2021,110
+33,New Hampshire,33005,Cheshire,2020,113
+33,New Hampshire,33005,Cheshire,2021,158
+33,New Hampshire,33007,Coos,2020,91
+33,New Hampshire,33007,Coos,2021,85
+33,New Hampshire,33009,Grafton,2020,156
+33,New Hampshire,33009,Grafton,2021,164
+33,New Hampshire,33011,Hillsborough,2020,864
+33,New Hampshire,33011,Hillsborough,2021,844
+33,New Hampshire,33013,Merrimack,2020,282
+33,New Hampshire,33013,Merrimack,2021,369
+33,New Hampshire,33015,Rockingham,2020,491
+33,New Hampshire,33015,Rockingham,2021,604
+33,New Hampshire,33017,Strafford,2020,238
+33,New Hampshire,33017,Strafford,2021,316
+33,New Hampshire,33019,Sullivan,2020,112
+33,New Hampshire,33019,Sullivan,2021,90
+34,New Jersey,34001,Atlantic,2020,1093
+34,New Jersey,34001,Atlantic,2021,1260
+34,New Jersey,34001,Atlantic,2022,1536
+34,New Jersey,34003,Bergen,2020,1135
+34,New Jersey,34003,Bergen,2021,1462
+34,New Jersey,34003,Bergen,2022,1979
+34,New Jersey,34005,Burlington,2020,1074
+34,New Jersey,34005,Burlington,2021,1282
+34,New Jersey,34005,Burlington,2022,1787
+34,New Jersey,34007,Camden,2020,2500
+34,New Jersey,34007,Camden,2021,2755
+34,New Jersey,34007,Camden,2022,3267
+34,New Jersey,34009,Cape May,2020,147
+34,New Jersey,34009,Cape May,2021,212
+34,New Jersey,34009,Cape May,2022,206
+34,New Jersey,34011,Cumberland,2020,814
+34,New Jersey,34011,Cumberland,2021,849
+34,New Jersey,34011,Cumberland,2022,1063
+34,New Jersey,34013,Essex,2020,4373
+34,New Jersey,34013,Essex,2021,5379
+34,New Jersey,34013,Essex,2022,5764
+34,New Jersey,34015,Gloucester,2020,482
+34,New Jersey,34015,Gloucester,2021,555
+34,New Jersey,34015,Gloucester,2022,660
+34,New Jersey,34017,Hudson,2020,1914
+34,New Jersey,34017,Hudson,2021,2290
+34,New Jersey,34017,Hudson,2022,2797
+34,New Jersey,34019,Hunterdon,2020,91
+34,New Jersey,34019,Hunterdon,2021,133
+34,New Jersey,34019,Hunterdon,2022,217
+34,New Jersey,34021,Mercer,2020,1740
+34,New Jersey,34021,Mercer,2021,1720
+34,New Jersey,34021,Mercer,2022,1862
+34,New Jersey,34023,Middlesex,2020,1510
+34,New Jersey,34023,Middlesex,2021,1937
+34,New Jersey,34023,Middlesex,2022,2372
+34,New Jersey,34025,Monmouth,2020,1179
+34,New Jersey,34025,Monmouth,2021,1492
+34,New Jersey,34025,Monmouth,2022,1668
+34,New Jersey,34027,Morris,2020,488
+34,New Jersey,34027,Morris,2021,605
+34,New Jersey,34027,Morris,2022,827
+34,New Jersey,34029,Ocean,2020,1218
+34,New Jersey,34029,Ocean,2021,1377
+34,New Jersey,34029,Ocean,2022,1482
+34,New Jersey,34031,Passaic,2020,1714
+34,New Jersey,34031,Passaic,2021,2247
+34,New Jersey,34031,Passaic,2022,2508
+34,New Jersey,34033,Salem,2020,154
+34,New Jersey,34033,Salem,2021,174
+34,New Jersey,34033,Salem,2022,215
+34,New Jersey,34035,Somerset,2020,337
+34,New Jersey,34035,Somerset,2021,426
+34,New Jersey,34035,Somerset,2022,498
+34,New Jersey,34037,Sussex,2020,188
+34,New Jersey,34037,Sussex,2021,243
+34,New Jersey,34037,Sussex,2022,280
+34,New Jersey,34039,Union,2020,1503
+34,New Jersey,34039,Union,2021,1893
+34,New Jersey,34039,Union,2022,2393
+34,New Jersey,34041,Warren,2020,194
+34,New Jersey,34041,Warren,2021,248
+34,New Jersey,34041,Warren,2022,250
+35,New Mexico,35001,Bernalillo,2020,1082
+35,New Mexico,35001,Bernalillo,2021,1162
+35,New Mexico,35003,Catron,2021,0
+35,New Mexico,35005,Chaves,2020,194
+35,New Mexico,35005,Chaves,2021,253
+35,New Mexico,35006,Cibola,2020,49
+35,New Mexico,35006,Cibola,2021,26
+35,New Mexico,35007,Colfax,2020,36
+35,New Mexico,35007,Colfax,2021,38
+35,New Mexico,35009,Curry,2020,124
+35,New Mexico,35009,Curry,2021,157
+35,New Mexico,35013,Dona Ana,2020,431
+35,New Mexico,35013,Dona Ana,2021,449
+35,New Mexico,35015,Eddy,2020,194
+35,New Mexico,35015,Eddy,2021,216
+35,New Mexico,35017,Grant,2020,92
+35,New Mexico,35017,Grant,2021,83
+35,New Mexico,35019,Guadalupe,2020,9
+35,New Mexico,35019,Guadalupe,2021,17
+35,New Mexico,35025,Lea,2020,186
+35,New Mexico,35025,Lea,2021,199
+35,New Mexico,35027,Lincoln,2020,25
+35,New Mexico,35027,Lincoln,2021,50
+35,New Mexico,35028,Los Alamos,2020,20
+35,New Mexico,35028,Los Alamos,2021,16
+35,New Mexico,35029,Luna,2020,57
+35,New Mexico,35029,Luna,2021,75
+35,New Mexico,35031,Mckinley,2020,113
+35,New Mexico,35031,Mckinley,2021,92
+35,New Mexico,35033,Mora,2020,6
+35,New Mexico,35035,Otero,2020,171
+35,New Mexico,35035,Otero,2021,179
+35,New Mexico,35037,Quay,2020,37
+35,New Mexico,35037,Quay,2021,46
+35,New Mexico,35039,Rio Arriba,2020,79
+35,New Mexico,35039,Rio Arriba,2021,105
+35,New Mexico,35041,Roosevelt,2020,7
+35,New Mexico,35041,Roosevelt,2021,60
+35,New Mexico,35045,San Juan,2020,332
+35,New Mexico,35045,San Juan,2021,304
+35,New Mexico,35047,San Miguel,2020,83
+35,New Mexico,35047,San Miguel,2021,84
+35,New Mexico,35043,Sandoval,2020,201
+35,New Mexico,35043,Sandoval,2021,211
+35,New Mexico,35049,Santa Fe,2020,217
+35,New Mexico,35049,Santa Fe,2021,186
+35,New Mexico,35051,Sierra,2020,30
+35,New Mexico,35051,Sierra,2021,27
+35,New Mexico,35053,Socorro,2020,30
+35,New Mexico,35053,Socorro,2021,49
+35,New Mexico,35055,Taos,2020,41
+35,New Mexico,35055,Taos,2021,61
+35,New Mexico,35057,Torrance,2020,12
+35,New Mexico,35057,Torrance,2021,26
+35,New Mexico,35059,Union,2020,12
+35,New Mexico,35059,Union,2021,14
+35,New Mexico,35061,Valencia,2020,82
+35,New Mexico,35061,Valencia,2021,87
+36,New York,36001,Albany,2020,1025
+36,New York,36001,Albany,2021,684
+36,New York,36001,Albany,2022,611
+36,New York,36003,Allegany,2020,101
+36,New York,36003,Allegany,2021,106
+36,New York,36003,Allegany,2022,115
+36,New York,36005,Bronx,2020,16024
+36,New York,36005,Bronx,2021,18569
+36,New York,36005,Bronx,2022,22472
+36,New York,36007,Broome,2020,414
+36,New York,36007,Broome,2021,442
+36,New York,36007,Broome,2022,530
+36,New York,36009,Cattaraugus,2020,144
+36,New York,36009,Cattaraugus,2021,176
+36,New York,36009,Cattaraugus,2022,220
+36,New York,36011,Cayuga,2020,135
+36,New York,36011,Cayuga,2021,140
+36,New York,36011,Cayuga,2022,206
+36,New York,36013,Chautauqua,2020,356
+36,New York,36013,Chautauqua,2021,443
+36,New York,36013,Chautauqua,2022,393
+36,New York,36015,Chemung,2020,209
+36,New York,36015,Chemung,2021,207
+36,New York,36015,Chemung,2022,223
+36,New York,36017,Chenango,2020,117
+36,New York,36017,Chenango,2021,143
+36,New York,36017,Chenango,2022,165
+36,New York,36019,Clinton,2020,169
+36,New York,36019,Clinton,2021,163
+36,New York,36019,Clinton,2022,163
+36,New York,36021,Columbia,2020,92
+36,New York,36021,Columbia,2021,106
+36,New York,36021,Columbia,2022,132
+36,New York,36023,Cortland,2020,96
+36,New York,36023,Cortland,2021,102
+36,New York,36023,Cortland,2022,127
+36,New York,36025,Delaware,2020,92
+36,New York,36025,Delaware,2021,96
+36,New York,36025,Delaware,2022,140
+36,New York,36027,Dutchess,2020,672
+36,New York,36027,Dutchess,2021,871
+36,New York,36027,Dutchess,2022,913
+36,New York,36029,Erie,2020,2388
+36,New York,36029,Erie,2021,2616
+36,New York,36029,Erie,2022,3091
+36,New York,36031,Essex,2020,89
+36,New York,36031,Essex,2021,85
+36,New York,36031,Essex,2022,108
+36,New York,36033,Franklin,2020,92
+36,New York,36033,Franklin,2021,55
+36,New York,36033,Franklin,2022,123
+36,New York,36035,Fulton,2020,165
+36,New York,36035,Fulton,2021,188
+36,New York,36035,Fulton,2022,241
+36,New York,36037,Genesee,2020,86
+36,New York,36037,Genesee,2021,86
+36,New York,36037,Genesee,2022,121
+36,New York,36039,Greene,2020,72
+36,New York,36039,Greene,2021,74
+36,New York,36039,Greene,2022,73
+36,New York,36041,Hamilton,2021,8
+36,New York,36043,Herkimer,2020,64
+36,New York,36043,Herkimer,2021,93
+36,New York,36043,Herkimer,2022,118
+36,New York,36045,Jefferson,2020,328
+36,New York,36045,Jefferson,2021,333
+36,New York,36045,Jefferson,2022,347
+36,New York,36047,Kings,2020,14009
+36,New York,36047,Kings,2021,13098
+36,New York,36047,Kings,2022,17237
+36,New York,36049,Lewis,2020,36
+36,New York,36049,Lewis,2021,46
+36,New York,36049,Lewis,2022,73
+36,New York,36051,Livingston,2020,80
+36,New York,36051,Livingston,2021,83
+36,New York,36051,Livingston,2022,111
+36,New York,36053,Madison,2020,77
+36,New York,36053,Madison,2021,116
+36,New York,36053,Madison,2022,136
+36,New York,36055,Monroe,2020,2053
+36,New York,36055,Monroe,2021,2137
+36,New York,36055,Monroe,2022,2865
+36,New York,36057,Montgomery,2020,215
+36,New York,36057,Montgomery,2021,256
+36,New York,36057,Montgomery,2022,329
+36,New York,36059,Nassau,2020,2254
+36,New York,36059,Nassau,2021,2667
+36,New York,36059,Nassau,2022,3369
+36,New York,36061,New York,2020,8158
+36,New York,36061,New York,2021,9097
+36,New York,36061,New York,2022,10619
+36,New York,36063,Niagara,2020,490
+36,New York,36063,Niagara,2021,585
+36,New York,36063,Niagara,2022,724
+36,New York,36065,Oneida,2020,215
+36,New York,36065,Oneida,2021,420
+36,New York,36065,Oneida,2022,664
+36,New York,36067,Onondaga,2020,1155
+36,New York,36067,Onondaga,2021,1540
+36,New York,36067,Onondaga,2022,1531
+36,New York,36069,Ontario,2020,138
+36,New York,36069,Ontario,2021,182
+36,New York,36069,Ontario,2022,227
+36,New York,36071,Orange,2020,1041
+36,New York,36071,Orange,2021,1348
+36,New York,36071,Orange,2022,1519
+36,New York,36073,Orleans,2020,71
+36,New York,36073,Orleans,2021,61
+36,New York,36073,Orleans,2022,93
+36,New York,36075,Oswego,2020,219
+36,New York,36075,Oswego,2021,276
+36,New York,36075,Oswego,2022,279
+36,New York,36077,Otsego,2020,85
+36,New York,36077,Otsego,2021,117
+36,New York,36077,Otsego,2022,157
+36,New York,36079,Putnam,2020,140
+36,New York,36079,Putnam,2021,141
+36,New York,36079,Putnam,2022,215
+36,New York,36081,Queens,2020,6939
+36,New York,36081,Queens,2021,8494
+36,New York,36081,Queens,2022,10492
+36,New York,36083,Rensselaer,2020,323
+36,New York,36083,Rensselaer,2021,187
+36,New York,36083,Rensselaer,2022,180
+36,New York,36085,Richmond,2020,1615
+36,New York,36085,Richmond,2021,1721
+36,New York,36085,Richmond,2022,2100
+36,New York,36087,Rockland,2020,515
+36,New York,36087,Rockland,2021,685
+36,New York,36087,Rockland,2022,785
+36,New York,36091,Saratoga,2020,234
+36,New York,36091,Saratoga,2021,190
+36,New York,36091,Saratoga,2022,280
+36,New York,36093,Schenectady,2020,438
+36,New York,36093,Schenectady,2021,230
+36,New York,36093,Schenectady,2022,246
+36,New York,36095,Schoharie,2020,45
+36,New York,36095,Schoharie,2021,60
+36,New York,36095,Schoharie,2022,83
+36,New York,36097,Schuyler,2021,26
+36,New York,36099,Seneca,2020,56
+36,New York,36099,Seneca,2021,55
+36,New York,36099,Seneca,2022,79
+36,New York,36089,St. Lawrence,2020,268
+36,New York,36089,St. Lawrence,2021,259
+36,New York,36089,St. Lawrence,2022,351
+36,New York,36101,Steuben,2020,129
+36,New York,36101,Steuben,2021,154
+36,New York,36101,Steuben,2022,203
+36,New York,36103,Suffolk,2020,2559
+36,New York,36103,Suffolk,2021,3292
+36,New York,36103,Suffolk,2022,4122
+36,New York,36105,Sullivan,2020,313
+36,New York,36105,Sullivan,2021,323
+36,New York,36105,Sullivan,2022,434
+36,New York,36107,Tioga,2020,39
+36,New York,36107,Tioga,2021,31
+36,New York,36107,Tioga,2022,70
+36,New York,36109,Tompkins,2020,102
+36,New York,36109,Tompkins,2021,168
+36,New York,36109,Tompkins,2022,174
+36,New York,36111,Ulster,2020,426
+36,New York,36111,Ulster,2021,511
+36,New York,36111,Ulster,2022,583
+36,New York,36113,Warren,2020,115
+36,New York,36113,Warren,2021,116
+36,New York,36113,Warren,2022,122
+36,New York,36115,Washington,2020,69
+36,New York,36115,Washington,2021,101
+36,New York,36115,Washington,2022,133
+36,New York,36117,Wayne,2020,112
+36,New York,36117,Wayne,2021,109
+36,New York,36117,Wayne,2022,208
+36,New York,36119,Westchester,2020,2799
+36,New York,36119,Westchester,2021,3326
+36,New York,36119,Westchester,2022,4129
+36,New York,36121,Wyoming,2020,43
+36,New York,36121,Wyoming,2021,52
+36,New York,36121,Wyoming,2022,61
+36,New York,36123,Yates,2020,42
+36,New York,36123,Yates,2021,36
+36,New York,36123,Yates,2022,29
+41,Oregon,41001,Baker,2020,46
+41,Oregon,41001,Baker,2021,51
+41,Oregon,41001,Baker,2022,43
+41,Oregon,41003,Benton,2020,117
+41,Oregon,41003,Benton,2021,112
+41,Oregon,41003,Benton,2022,134
+41,Oregon,41005,Clackamas,2020,667
+41,Oregon,41005,Clackamas,2021,586
+41,Oregon,41005,Clackamas,2022,845
+41,Oregon,41007,Clatsop,2020,124
+41,Oregon,41007,Clatsop,2021,84
+41,Oregon,41007,Clatsop,2022,117
+41,Oregon,41009,Columbia,2020,87
+41,Oregon,41009,Columbia,2021,47
+41,Oregon,41009,Columbia,2022,94
+41,Oregon,41011,Coos,2020,210
+41,Oregon,41011,Coos,2021,193
+41,Oregon,41011,Coos,2022,187
+41,Oregon,41013,Crook,2020,69
+41,Oregon,41013,Crook,2021,63
+41,Oregon,41013,Crook,2022,84
+41,Oregon,41015,Curry,2020,71
+41,Oregon,41015,Curry,2021,71
+41,Oregon,41015,Curry,2022,71
+41,Oregon,41017,Deschutes,2020,299
+41,Oregon,41017,Deschutes,2021,240
+41,Oregon,41017,Deschutes,2022,338
+41,Oregon,41019,Douglas,2020,347
+41,Oregon,41019,Douglas,2021,248
+41,Oregon,41019,Douglas,2022,316
+41,Oregon,41023,Grant,2020,9
+41,Oregon,41023,Grant,2021,20
+41,Oregon,41023,Grant,2022,13
+41,Oregon,41025,Harney,2020,30
+41,Oregon,41025,Harney,2021,28
+41,Oregon,41025,Harney,2022,31
+41,Oregon,41027,Hood River,2020,30
+41,Oregon,41027,Hood River,2021,24
+41,Oregon,41027,Hood River,2022,41
+41,Oregon,41029,Jackson,2020,546
+41,Oregon,41029,Jackson,2021,498
+41,Oregon,41029,Jackson,2022,455
+41,Oregon,41031,Jefferson,2020,118
+41,Oregon,41031,Jefferson,2021,114
+41,Oregon,41031,Jefferson,2022,137
+41,Oregon,41033,Josephine,2020,234
+41,Oregon,41033,Josephine,2021,209
+41,Oregon,41033,Josephine,2022,203
+41,Oregon,41035,Klamath,2020,227
+41,Oregon,41035,Klamath,2021,183
+41,Oregon,41035,Klamath,2022,214
+41,Oregon,41037,Lake,2020,17
+41,Oregon,41037,Lake,2021,13
+41,Oregon,41037,Lake,2022,29
+41,Oregon,41039,Lane,2020,757
+41,Oregon,41039,Lane,2021,584
+41,Oregon,41039,Lane,2022,952
+41,Oregon,41041,Lincoln,2020,143
+41,Oregon,41041,Lincoln,2021,120
+41,Oregon,41041,Lincoln,2022,182
+41,Oregon,41043,Linn,2020,360
+41,Oregon,41043,Linn,2021,350
+41,Oregon,41043,Linn,2022,403
+41,Oregon,41045,Malheur,2020,41
+41,Oregon,41045,Malheur,2021,66
+41,Oregon,41045,Malheur,2022,54
+41,Oregon,41047,Marion,2020,734
+41,Oregon,41047,Marion,2021,695
+41,Oregon,41047,Marion,2022,951
+41,Oregon,41049,Morrow,2020,27
+41,Oregon,41049,Morrow,2021,26
+41,Oregon,41049,Morrow,2022,35
+41,Oregon,41051,Multnomah,2020,1707
+41,Oregon,41051,Multnomah,2021,1584
+41,Oregon,41051,Multnomah,2022,2212
+41,Oregon,41053,Polk,2020,194
+41,Oregon,41053,Polk,2021,167
+41,Oregon,41053,Polk,2022,221
+41,Oregon,41057,Tillamook,2020,61
+41,Oregon,41057,Tillamook,2021,64
+41,Oregon,41057,Tillamook,2022,90
+41,Oregon,41059,Umatilla,2020,185
+41,Oregon,41059,Umatilla,2021,159
+41,Oregon,41059,Umatilla,2022,269
+41,Oregon,41061,Union,2020,49
+41,Oregon,41061,Union,2021,60
+41,Oregon,41061,Union,2022,62
+41,Oregon,41063,Wallowa,2020,17
+41,Oregon,41063,Wallowa,2021,15
+41,Oregon,41063,Wallowa,2022,17
+41,Oregon,41065,Wasco,2020,73
+41,Oregon,41065,Wasco,2021,76
+41,Oregon,41065,Wasco,2022,75
+41,Oregon,41067,Washington,2020,844
+41,Oregon,41067,Washington,2021,793
+41,Oregon,41067,Washington,2022,1291
+41,Oregon,41071,Yamhill,2020,269
+41,Oregon,41071,Yamhill,2021,252
+41,Oregon,41071,Yamhill,2022,291
+42,Pennsylvania,42001,Adams,2020,100
+42,Pennsylvania,42001,Adams,2021,103
+42,Pennsylvania,42003,Allegheny,2020,4834
+42,Pennsylvania,42003,Allegheny,2021,3934
+42,Pennsylvania,42005,Armstrong,2020,154
+42,Pennsylvania,42005,Armstrong,2021,116
+42,Pennsylvania,42007,Beaver,2020,124
+42,Pennsylvania,42007,Beaver,2021,107
+42,Pennsylvania,42009,Bedford,2020,165
+42,Pennsylvania,42009,Bedford,2021,106
+42,Pennsylvania,42011,Berks,2020,1145
+42,Pennsylvania,42011,Berks,2021,1494
+42,Pennsylvania,42013,Blair,2020,389
+42,Pennsylvania,42013,Blair,2021,327
+42,Pennsylvania,42015,Bradford,2020,101
+42,Pennsylvania,42015,Bradford,2021,91
+42,Pennsylvania,42017,Bucks,2020,972
+42,Pennsylvania,42017,Bucks,2021,1364
+42,Pennsylvania,42019,Butler,2020,730
+42,Pennsylvania,42019,Butler,2021,542
+42,Pennsylvania,42021,Cambria,2020,294
+42,Pennsylvania,42021,Cambria,2021,260
+42,Pennsylvania,42023,Cameron,2020,0
+42,Pennsylvania,42023,Cameron,2021,7
+42,Pennsylvania,42025,Carbon,2020,124
+42,Pennsylvania,42025,Carbon,2021,147
+42,Pennsylvania,42027,Centre,2020,476
+42,Pennsylvania,42027,Centre,2021,595
+42,Pennsylvania,42029,Chester,2020,329
+42,Pennsylvania,42029,Chester,2021,422
+42,Pennsylvania,42031,Clarion,2020,65
+42,Pennsylvania,42031,Clarion,2021,63
+42,Pennsylvania,42033,Clearfield,2020,66
+42,Pennsylvania,42033,Clearfield,2021,95
+42,Pennsylvania,42035,Clinton,2020,65
+42,Pennsylvania,42035,Clinton,2021,97
+42,Pennsylvania,42037,Columbia,2020,81
+42,Pennsylvania,42037,Columbia,2021,125
+42,Pennsylvania,42039,Crawford,2020,159
+42,Pennsylvania,42039,Crawford,2021,133
+42,Pennsylvania,42041,Cumberland,2020,275
+42,Pennsylvania,42041,Cumberland,2021,372
+42,Pennsylvania,42043,Dauphin,2020,936
+42,Pennsylvania,42043,Dauphin,2021,1192
+42,Pennsylvania,42045,Delaware,2020,1553
+42,Pennsylvania,42045,Delaware,2021,3213
+42,Pennsylvania,42047,Elk,2021,19
+42,Pennsylvania,42049,Erie,2020,879
+42,Pennsylvania,42049,Erie,2021,729
+42,Pennsylvania,42051,Fayette,2020,286
+42,Pennsylvania,42051,Fayette,2021,276
+42,Pennsylvania,42053,Forest,2020,9
+42,Pennsylvania,42053,Forest,2021,10
+42,Pennsylvania,42055,Franklin,2020,266
+42,Pennsylvania,42055,Franklin,2021,226
+42,Pennsylvania,42057,Fulton,2020,49
+42,Pennsylvania,42057,Fulton,2021,34
+42,Pennsylvania,42059,Greene,2020,20
+42,Pennsylvania,42059,Greene,2021,12
+42,Pennsylvania,42061,Huntingdon,2020,149
+42,Pennsylvania,42061,Huntingdon,2021,117
+42,Pennsylvania,42063,Indiana,2020,134
+42,Pennsylvania,42063,Indiana,2021,158
+42,Pennsylvania,42065,Jefferson,2020,74
+42,Pennsylvania,42065,Jefferson,2021,84
+42,Pennsylvania,42067,Juniata,2020,20
+42,Pennsylvania,42067,Juniata,2021,33
+42,Pennsylvania,42069,Lackawanna,2020,500
+42,Pennsylvania,42069,Lackawanna,2021,449
+42,Pennsylvania,42071,Lancaster,2020,983
+42,Pennsylvania,42071,Lancaster,2021,1145
+42,Pennsylvania,42073,Lawrence,2020,383
+42,Pennsylvania,42073,Lawrence,2021,330
+42,Pennsylvania,42075,Lebanon,2020,365
+42,Pennsylvania,42075,Lebanon,2021,569
+42,Pennsylvania,42077,Lehigh,2020,1623
+42,Pennsylvania,42077,Lehigh,2021,1819
+42,Pennsylvania,42079,Luzerne,2020,603
+42,Pennsylvania,42079,Luzerne,2021,639
+42,Pennsylvania,42081,Lycoming,2020,202
+42,Pennsylvania,42081,Lycoming,2021,345
+42,Pennsylvania,42083,Mckean,2020,110
+42,Pennsylvania,42083,Mckean,2021,133
+42,Pennsylvania,42085,Mercer,2020,467
+42,Pennsylvania,42085,Mercer,2021,462
+42,Pennsylvania,42087,Mifflin,2020,95
+42,Pennsylvania,42087,Mifflin,2021,100
+42,Pennsylvania,42089,Monroe,2020,570
+42,Pennsylvania,42089,Monroe,2021,680
+42,Pennsylvania,42091,Montgomery,2020,1095
+42,Pennsylvania,42091,Montgomery,2021,1706
+42,Pennsylvania,42093,Montour,2020,20
+42,Pennsylvania,42093,Montour,2021,24
+42,Pennsylvania,42095,Northampton,2020,764
+42,Pennsylvania,42095,Northampton,2021,854
+42,Pennsylvania,42097,Northumberland,2020,221
+42,Pennsylvania,42097,Northumberland,2021,242
+42,Pennsylvania,42099,Perry,2020,44
+42,Pennsylvania,42099,Perry,2021,57
+42,Pennsylvania,42101,Philadelphia,2020,10294
+42,Pennsylvania,42101,Philadelphia,2021,12591
+42,Pennsylvania,42103,Pike,2020,171
+42,Pennsylvania,42103,Pike,2021,109
+42,Pennsylvania,42105,Potter,2020,25
+42,Pennsylvania,42105,Potter,2021,55
+42,Pennsylvania,42107,Schuylkill,2020,178
+42,Pennsylvania,42107,Schuylkill,2021,274
+42,Pennsylvania,42109,Snyder,2020,33
+42,Pennsylvania,42109,Snyder,2021,36
+42,Pennsylvania,42111,Somerset,2020,141
+42,Pennsylvania,42111,Somerset,2021,90
+42,Pennsylvania,42113,Sullivan,2021,7
+42,Pennsylvania,42115,Susquehanna,2020,31
+42,Pennsylvania,42115,Susquehanna,2021,17
+42,Pennsylvania,42117,Tioga,2020,49
+42,Pennsylvania,42117,Tioga,2021,81
+42,Pennsylvania,42119,Union,2020,32
+42,Pennsylvania,42119,Union,2021,37
+42,Pennsylvania,42121,Venango,2020,262
+42,Pennsylvania,42121,Venango,2021,153
+42,Pennsylvania,42123,Warren,2020,7
+42,Pennsylvania,42123,Warren,2021,10
+42,Pennsylvania,42125,Washington,2020,268
+42,Pennsylvania,42125,Washington,2021,358
+42,Pennsylvania,42127,Wayne,2020,191
+42,Pennsylvania,42127,Wayne,2021,64
+42,Pennsylvania,42129,Westmoreland,2020,828
+42,Pennsylvania,42129,Westmoreland,2021,871
+42,Pennsylvania,42131,Wyoming,2020,89
+42,Pennsylvania,42131,Wyoming,2021,64
+42,Pennsylvania,42133,York,2020,725
+42,Pennsylvania,42133,York,2021,827
+44,Rhode Island,44001,Bristol,2020,49
+44,Rhode Island,44001,Bristol,2021,67
+44,Rhode Island,44001,Bristol,2022,63
+44,Rhode Island,44003,Kent,2020,221
+44,Rhode Island,44003,Kent,2021,280
+44,Rhode Island,44003,Kent,2022,264
+44,Rhode Island,44005,Newport,2020,126
+44,Rhode Island,44005,Newport,2021,147
+44,Rhode Island,44005,Newport,2022,135
+44,Rhode Island,44007,Providence,2020,1847
+44,Rhode Island,44007,Providence,2021,2251
+44,Rhode Island,44007,Providence,2022,2187
+44,Rhode Island,44009,Washington,2020,154
+44,Rhode Island,44009,Washington,2021,171
+44,Rhode Island,44009,Washington,2022,231
+45,South Carolina,45001,Abbeville,2020,79
+45,South Carolina,45001,Abbeville,2021,102
+45,South Carolina,45001,Abbeville,2022,77
+45,South Carolina,45003,Aiken,2020,301
+45,South Carolina,45003,Aiken,2021,330
+45,South Carolina,45003,Aiken,2022,322
+45,South Carolina,45005,Allendale,2020,53
+45,South Carolina,45005,Allendale,2021,47
+45,South Carolina,45005,Allendale,2022,80
+45,South Carolina,45007,Anderson,2020,349
+45,South Carolina,45007,Anderson,2021,458
+45,South Carolina,45007,Anderson,2022,460
+45,South Carolina,45009,Bamberg,2020,83
+45,South Carolina,45009,Bamberg,2021,90
+45,South Carolina,45009,Bamberg,2022,75
+45,South Carolina,45011,Barnwell,2020,69
+45,South Carolina,45011,Barnwell,2021,95
+45,South Carolina,45011,Barnwell,2022,71
+45,South Carolina,45013,Beaufort,2020,459
+45,South Carolina,45013,Beaufort,2021,497
+45,South Carolina,45013,Beaufort,2022,462
+45,South Carolina,45015,Berkeley,2020,835
+45,South Carolina,45015,Berkeley,2021,966
+45,South Carolina,45015,Berkeley,2022,1052
+45,South Carolina,45017,Calhoun,2020,47
+45,South Carolina,45017,Calhoun,2021,38
+45,South Carolina,45017,Calhoun,2022,34
+45,South Carolina,45019,Charleston,2020,1378
+45,South Carolina,45019,Charleston,2021,1514
+45,South Carolina,45019,Charleston,2022,1462
+45,South Carolina,45021,Cherokee,2020,152
+45,South Carolina,45021,Cherokee,2021,154
+45,South Carolina,45021,Cherokee,2022,181
+45,South Carolina,45023,Chester,2020,133
+45,South Carolina,45023,Chester,2021,136
+45,South Carolina,45023,Chester,2022,124
+45,South Carolina,45025,Chesterfield,2020,90
+45,South Carolina,45025,Chesterfield,2021,94
+45,South Carolina,45025,Chesterfield,2022,90
+45,South Carolina,45027,Clarendon,2020,165
+45,South Carolina,45027,Clarendon,2021,143
+45,South Carolina,45027,Clarendon,2022,152
+45,South Carolina,45029,Colleton,2020,206
+45,South Carolina,45029,Colleton,2021,236
+45,South Carolina,45029,Colleton,2022,259
+45,South Carolina,45031,Darlington,2020,247
+45,South Carolina,45031,Darlington,2021,241
+45,South Carolina,45031,Darlington,2022,234
+45,South Carolina,45033,Dillon,2020,200
+45,South Carolina,45033,Dillon,2021,245
+45,South Carolina,45033,Dillon,2022,226
+45,South Carolina,45035,Dorchester,2020,525
+45,South Carolina,45035,Dorchester,2021,587
+45,South Carolina,45035,Dorchester,2022,685
+45,South Carolina,45037,Edgefield,2020,80
+45,South Carolina,45037,Edgefield,2021,84
+45,South Carolina,45037,Edgefield,2022,69
+45,South Carolina,45039,Fairfield,2020,145
+45,South Carolina,45039,Fairfield,2021,167
+45,South Carolina,45039,Fairfield,2022,143
+45,South Carolina,45041,Florence,2020,669
+45,South Carolina,45041,Florence,2021,616
+45,South Carolina,45041,Florence,2022,683
+45,South Carolina,45043,Georgetown,2020,234
+45,South Carolina,45043,Georgetown,2021,198
+45,South Carolina,45043,Georgetown,2022,207
+45,South Carolina,45045,Greenville,2020,873
+45,South Carolina,45045,Greenville,2021,1313
+45,South Carolina,45045,Greenville,2022,1489
+45,South Carolina,45047,Greenwood,2020,261
+45,South Carolina,45047,Greenwood,2021,290
+45,South Carolina,45047,Greenwood,2022,312
+45,South Carolina,45049,Hampton,2020,146
+45,South Carolina,45049,Hampton,2021,148
+45,South Carolina,45049,Hampton,2022,175
+45,South Carolina,45051,Horry,2020,1065
+45,South Carolina,45051,Horry,2021,1221
+45,South Carolina,45051,Horry,2022,1313
+45,South Carolina,45053,Jasper,2020,126
+45,South Carolina,45053,Jasper,2021,111
+45,South Carolina,45053,Jasper,2022,132
+45,South Carolina,45055,Kershaw,2020,236
+45,South Carolina,45055,Kershaw,2021,268
+45,South Carolina,45055,Kershaw,2022,227
+45,South Carolina,45057,Lancaster,2020,116
+45,South Carolina,45057,Lancaster,2021,149
+45,South Carolina,45057,Lancaster,2022,161
+45,South Carolina,45059,Laurens,2020,186
+45,South Carolina,45059,Laurens,2021,268
+45,South Carolina,45059,Laurens,2022,302
+45,South Carolina,45061,Lee,2020,92
+45,South Carolina,45061,Lee,2021,93
+45,South Carolina,45061,Lee,2022,88
+45,South Carolina,45063,Lexington,2020,366
+45,South Carolina,45063,Lexington,2021,642
+45,South Carolina,45063,Lexington,2022,652
+45,South Carolina,45067,Marion,2020,252
+45,South Carolina,45067,Marion,2021,223
+45,South Carolina,45067,Marion,2022,259
+45,South Carolina,45069,Marlboro,2020,77
+45,South Carolina,45069,Marlboro,2021,71
+45,South Carolina,45069,Marlboro,2022,45
+45,South Carolina,45065,Mccormick,2020,18
+45,South Carolina,45065,Mccormick,2021,22
+45,South Carolina,45065,Mccormick,2022,22
+45,South Carolina,45071,Newberry,2020,183
+45,South Carolina,45071,Newberry,2021,181
+45,South Carolina,45071,Newberry,2022,179
+45,South Carolina,45073,Oconee,2020,105
+45,South Carolina,45073,Oconee,2021,143
+45,South Carolina,45073,Oconee,2022,193
+45,South Carolina,45075,Orangeburg,2020,496
+45,South Carolina,45075,Orangeburg,2021,483
+45,South Carolina,45075,Orangeburg,2022,461
+45,South Carolina,45077,Pickens,2020,268
+45,South Carolina,45077,Pickens,2021,302
+45,South Carolina,45077,Pickens,2022,327
+45,South Carolina,45079,Richland,2020,1392
+45,South Carolina,45079,Richland,2021,1512
+45,South Carolina,45079,Richland,2022,1546
+45,South Carolina,45081,Saluda,2020,19
+45,South Carolina,45081,Saluda,2021,36
+45,South Carolina,45081,Saluda,2022,45
+45,South Carolina,45083,Spartanburg,2020,756
+45,South Carolina,45083,Spartanburg,2021,910
+45,South Carolina,45083,Spartanburg,2022,1018
+45,South Carolina,45085,Sumter,2020,543
+45,South Carolina,45085,Sumter,2021,682
+45,South Carolina,45085,Sumter,2022,618
+45,South Carolina,45087,Union,2020,118
+45,South Carolina,45087,Union,2021,104
+45,South Carolina,45087,Union,2022,107
+45,South Carolina,45089,Williamsburg,2020,177
+45,South Carolina,45089,Williamsburg,2021,175
+45,South Carolina,45089,Williamsburg,2022,190
+45,South Carolina,45091,York,2020,349
+45,South Carolina,45091,York,2021,418
+45,South Carolina,45091,York,2022,463
+47,Tennessee,47001,Anderson,2020,132
+47,Tennessee,47003,Bedford,2020,133
+47,Tennessee,47005,Benton,2020,39
+47,Tennessee,47007,Bledsoe,2020,27
+47,Tennessee,47009,Blount,2020,203
+47,Tennessee,47011,Bradley,2020,274
+47,Tennessee,47013,Campbell,2020,63
+47,Tennessee,47015,Cannon,2020,35
+47,Tennessee,47017,Carroll,2020,63
+47,Tennessee,47019,Carter,2020,145
+47,Tennessee,47021,Cheatham,2020,109
+47,Tennessee,47023,Chester,2020,19
+47,Tennessee,47025,Claiborne,2020,53
+47,Tennessee,47029,Cocke,2020,109
+47,Tennessee,47031,Coffee,2020,136
+47,Tennessee,47033,Crockett,2020,20
+47,Tennessee,47035,Cumberland,2020,104
+47,Tennessee,47037,Davidson,2020,2648
+47,Tennessee,47039,Decatur,2020,18
+47,Tennessee,47041,Dekalb,2020,45
+47,Tennessee,47043,Dickson,2020,183
+47,Tennessee,47045,Dyer,2020,101
+47,Tennessee,47047,Fayette,2020,102
+47,Tennessee,47049,Fentress,2020,23
+47,Tennessee,47051,Franklin,2020,92
+47,Tennessee,47053,Gibson,2020,167
+47,Tennessee,47055,Giles,2020,62
+47,Tennessee,47057,Grainger,2020,44
+47,Tennessee,47059,Greene,2020,105
+47,Tennessee,47061,Grundy,2020,26
+47,Tennessee,47063,Hamblen,2020,142
+47,Tennessee,47065,Hamilton,2020,1114
+47,Tennessee,47067,Hancock,2020,13
+47,Tennessee,47069,Hardeman,2020,127
+47,Tennessee,47071,Hardin,2020,40
+47,Tennessee,47073,Hawkins,2020,72
+47,Tennessee,47075,Haywood,2020,48
+47,Tennessee,47077,Henderson,2020,48
+47,Tennessee,47079,Henry,2020,46
+47,Tennessee,47081,Hickman,2020,74
+47,Tennessee,47083,Houston,2020,18
+47,Tennessee,47085,Humphreys,2020,49
+47,Tennessee,47087,Jackson,2020,19
+47,Tennessee,47089,Jefferson,2020,106
+47,Tennessee,47091,Johnson,2020,41
+47,Tennessee,47093,Knox,2020,757
+47,Tennessee,47095,Lake,2020,22
+47,Tennessee,47097,Lauderdale,2020,104
+47,Tennessee,47099,Lawrence,2020,86
+47,Tennessee,47101,Lewis,2020,16
+47,Tennessee,47103,Lincoln,2020,70
+47,Tennessee,47105,Loudon,2020,74
+47,Tennessee,47111,Macon,2020,71
+47,Tennessee,47113,Madison,2020,370
+47,Tennessee,47115,Marion,2020,90
+47,Tennessee,47117,Marshall,2020,115
+47,Tennessee,47119,Maury,2020,288
+47,Tennessee,47107,Mcminn,2020,136
+47,Tennessee,47109,Mcnairy,2020,21
+47,Tennessee,47121,Meigs,2020,30
+47,Tennessee,47123,Monroe,2020,50
+47,Tennessee,47125,Montgomery,2020,658
+47,Tennessee,47127,Moore,2020,10
+47,Tennessee,47129,Morgan,2020,53
+47,Tennessee,47131,Obion,2020,94
+47,Tennessee,47133,Overton,2020,29
+47,Tennessee,47135,Perry,2020,10
+47,Tennessee,47139,Polk,2020,27
+47,Tennessee,47141,Putnam,2020,119
+47,Tennessee,47143,Rhea,2020,99
+47,Tennessee,47145,Roane,2020,75
+47,Tennessee,47147,Robertson,2020,212
+47,Tennessee,47149,Rutherford,2020,812
+47,Tennessee,47151,Scott,2020,20
+47,Tennessee,47153,Sequatchie,2020,21
+47,Tennessee,47155,Sevier,2020,235
+47,Tennessee,47157,Shelby,2020,5181
+47,Tennessee,47159,Smith,2020,44
+47,Tennessee,47161,Stewart,2020,19
+47,Tennessee,47163,Sullivan,2020,273
+47,Tennessee,47165,Sumner,2020,547
+47,Tennessee,47167,Tipton,2020,229
+47,Tennessee,47169,Trousdale,2020,16
+47,Tennessee,47171,Unicoi,2020,25
+47,Tennessee,47173,Union,2020,29
+47,Tennessee,47175,Van Buren,2020,13
+47,Tennessee,47177,Warren,2020,86
+47,Tennessee,47179,Washington,2020,233
+47,Tennessee,47181,Wayne,2020,26
+47,Tennessee,47183,Weakley,2020,74
+47,Tennessee,47185,White,2020,60
+47,Tennessee,47187,Williamson,2020,272
+47,Tennessee,47189,Wilson,2020,211
+49,Utah,49001,Beaver,2020,17
+49,Utah,49001,Beaver,2021,10
+49,Utah,49001,Beaver,2022,22
+49,Utah,49003,Box Elder,2020,110
+49,Utah,49003,Box Elder,2021,115
+49,Utah,49003,Box Elder,2022,154
+49,Utah,49005,Cache,2020,111
+49,Utah,49005,Cache,2021,139
+49,Utah,49005,Cache,2022,173
+49,Utah,49007,Carbon,2020,42
+49,Utah,49007,Carbon,2021,73
+49,Utah,49007,Carbon,2022,58
+49,Utah,49009,Daggett,2021,0
+49,Utah,49011,Davis,2020,396
+49,Utah,49011,Davis,2021,516
+49,Utah,49011,Davis,2022,636
+49,Utah,49013,Duchesne,2020,11
+49,Utah,49013,Duchesne,2021,14
+49,Utah,49013,Duchesne,2022,62
+49,Utah,49015,Emery,2020,10
+49,Utah,49015,Emery,2021,23
+49,Utah,49015,Emery,2022,8
+49,Utah,49017,Garfield,2020,13
+49,Utah,49017,Garfield,2021,12
+49,Utah,49017,Garfield,2022,15
+49,Utah,49019,Grand,2020,14
+49,Utah,49019,Grand,2021,18
+49,Utah,49019,Grand,2022,20
+49,Utah,49021,Iron,2020,63
+49,Utah,49021,Iron,2021,89
+49,Utah,49021,Iron,2022,106
+49,Utah,49023,Juab,2022,23
+49,Utah,49025,Kane,2022,13
+49,Utah,49027,Millard,2020,26
+49,Utah,49027,Millard,2021,24
+49,Utah,49027,Millard,2022,32
+49,Utah,49029,Morgan,2020,9
+49,Utah,49029,Morgan,2021,10
+49,Utah,49029,Morgan,2022,10
+49,Utah,49031,Piute,2020,6
+49,Utah,49033,Rich,2021,0
+49,Utah,49035,Salt Lake,2020,1735
+49,Utah,49035,Salt Lake,2021,2118
+49,Utah,49035,Salt Lake,2022,2873
+49,Utah,49037,San Juan,2020,8
+49,Utah,49037,San Juan,2021,16
+49,Utah,49037,San Juan,2022,35
+49,Utah,49039,Sanpete,2020,40
+49,Utah,49039,Sanpete,2021,49
+49,Utah,49039,Sanpete,2022,55
+49,Utah,49041,Sevier,2020,36
+49,Utah,49041,Sevier,2021,55
+49,Utah,49041,Sevier,2022,42
+49,Utah,49043,Summit,2020,25
+49,Utah,49043,Summit,2021,17
+49,Utah,49043,Summit,2022,30
+49,Utah,49045,Tooele,2020,164
+49,Utah,49045,Tooele,2021,183
+49,Utah,49045,Tooele,2022,231
+49,Utah,49047,Uintah,2020,74
+49,Utah,49047,Uintah,2021,58
+49,Utah,49047,Uintah,2022,93
+49,Utah,49049,Utah,2020,681
+49,Utah,49049,Utah,2021,789
+49,Utah,49049,Utah,2022,1079
+49,Utah,49051,Wasatch,2020,27
+49,Utah,49051,Wasatch,2021,34
+49,Utah,49051,Wasatch,2022,50
+49,Utah,49053,Washington,2020,269
+49,Utah,49053,Washington,2021,258
+49,Utah,49053,Washington,2022,318
+49,Utah,49055,Wayne,2020,0
+49,Utah,49057,Weber,2020,527
+49,Utah,49057,Weber,2021,532
+49,Utah,49057,Weber,2022,708
+50,Vermont,50001,Addison,2020,74
+50,Vermont,50001,Addison,2021,74
+50,Vermont,50003,Bennington,2020,84
+50,Vermont,50003,Bennington,2021,55
+50,Vermont,50005,Caledonia,2020,66
+50,Vermont,50005,Caledonia,2021,67
+50,Vermont,50007,Chittenden,2020,160
+50,Vermont,50007,Chittenden,2021,193
+50,Vermont,50011,Franklin,2020,103
+50,Vermont,50011,Franklin,2021,80
+50,Vermont,50015,Lamoille,2020,36
+50,Vermont,50015,Lamoille,2021,60
+50,Vermont,50017,Orange,2020,38
+50,Vermont,50017,Orange,2021,28
+50,Vermont,50019,Orleans,2020,90
+50,Vermont,50019,Orleans,2021,91
+50,Vermont,50021,Rutland,2020,133
+50,Vermont,50021,Rutland,2021,168
+50,Vermont,50023,Washington,2020,119
+50,Vermont,50023,Washington,2021,127
+50,Vermont,50025,Windham,2020,75
+50,Vermont,50025,Windham,2021,71
+50,Vermont,50027,Windsor,2020,103
+50,Vermont,50027,Windsor,2021,124
+55,Wisconsin,55001,Adams,2020,54
+55,Wisconsin,55001,Adams,2021,65
+55,Wisconsin,55001,Adams,2022,51
+55,Wisconsin,55003,Ashland,2020,40
+55,Wisconsin,55003,Ashland,2021,48
+55,Wisconsin,55003,Ashland,2022,41
+55,Wisconsin,55005,Barron,2020,107
+55,Wisconsin,55005,Barron,2021,115
+55,Wisconsin,55005,Barron,2022,131
+55,Wisconsin,55007,Bayfield,2020,26
+55,Wisconsin,55007,Bayfield,2021,29
+55,Wisconsin,55007,Bayfield,2022,33
+55,Wisconsin,55009,Brown,2020,600
+55,Wisconsin,55009,Brown,2021,607
+55,Wisconsin,55009,Brown,2022,726
+55,Wisconsin,55011,Buffalo,2020,14
+55,Wisconsin,55011,Buffalo,2021,16
+55,Wisconsin,55011,Buffalo,2022,11
+55,Wisconsin,55013,Burnett,2020,27
+55,Wisconsin,55013,Burnett,2021,40
+55,Wisconsin,55013,Burnett,2022,33
+55,Wisconsin,55015,Calumet,2020,63
+55,Wisconsin,55015,Calumet,2021,73
+55,Wisconsin,55015,Calumet,2022,74
+55,Wisconsin,55017,Chippewa,2020,134
+55,Wisconsin,55017,Chippewa,2021,152
+55,Wisconsin,55017,Chippewa,2022,142
+55,Wisconsin,55019,Clark,2020,50
+55,Wisconsin,55019,Clark,2021,67
+55,Wisconsin,55019,Clark,2022,62
+55,Wisconsin,55021,Columbia,2020,82
+55,Wisconsin,55021,Columbia,2021,103
+55,Wisconsin,55021,Columbia,2022,113
+55,Wisconsin,55023,Crawford,2020,28
+55,Wisconsin,55023,Crawford,2021,25
+55,Wisconsin,55023,Crawford,2022,25
+55,Wisconsin,55025,Dane,2020,705
+55,Wisconsin,55025,Dane,2021,886
+55,Wisconsin,55025,Dane,2022,1035
+55,Wisconsin,55027,Dodge,2020,175
+55,Wisconsin,55027,Dodge,2021,192
+55,Wisconsin,55027,Dodge,2022,174
+55,Wisconsin,55029,Door,2020,45
+55,Wisconsin,55029,Door,2021,61
+55,Wisconsin,55029,Door,2022,49
+55,Wisconsin,55031,Douglas,2020,98
+55,Wisconsin,55031,Douglas,2021,84
+55,Wisconsin,55031,Douglas,2022,99
+55,Wisconsin,55033,Dunn,2020,78
+55,Wisconsin,55033,Dunn,2021,82
+55,Wisconsin,55033,Dunn,2022,82
+55,Wisconsin,55035,Eau Claire,2020,182
+55,Wisconsin,55035,Eau Claire,2021,211
+55,Wisconsin,55035,Eau Claire,2022,215
+55,Wisconsin,55037,Florence,2020,0
+55,Wisconsin,55037,Florence,2021,0
+55,Wisconsin,55039,Fond Du Lac,2020,166
+55,Wisconsin,55039,Fond Du Lac,2021,188
+55,Wisconsin,55039,Fond Du Lac,2022,165
+55,Wisconsin,55041,Forest,2022,21
+55,Wisconsin,55043,Grant,2020,81
+55,Wisconsin,55043,Grant,2021,109
+55,Wisconsin,55043,Grant,2022,110
+55,Wisconsin,55045,Green,2020,56
+55,Wisconsin,55045,Green,2021,64
+55,Wisconsin,55045,Green,2022,69
+55,Wisconsin,55047,Green Lake,2020,27
+55,Wisconsin,55047,Green Lake,2021,32
+55,Wisconsin,55047,Green Lake,2022,38
+55,Wisconsin,55049,Iowa,2020,45
+55,Wisconsin,55049,Iowa,2021,38
+55,Wisconsin,55049,Iowa,2022,32
+55,Wisconsin,55053,Jackson,2020,29
+55,Wisconsin,55053,Jackson,2021,55
+55,Wisconsin,55053,Jackson,2022,56
+55,Wisconsin,55055,Jefferson,2020,159
+55,Wisconsin,55055,Jefferson,2021,192
+55,Wisconsin,55055,Jefferson,2022,240
+55,Wisconsin,55057,Juneau,2020,72
+55,Wisconsin,55057,Juneau,2021,78
+55,Wisconsin,55057,Juneau,2022,91
+55,Wisconsin,55059,Kenosha,2020,426
+55,Wisconsin,55059,Kenosha,2021,576
+55,Wisconsin,55059,Kenosha,2022,588
+55,Wisconsin,55061,Kewaunee,2020,21
+55,Wisconsin,55061,Kewaunee,2021,27
+55,Wisconsin,55061,Kewaunee,2022,26
+55,Wisconsin,55063,La Crosse,2020,159
+55,Wisconsin,55063,La Crosse,2021,231
+55,Wisconsin,55063,La Crosse,2022,216
+55,Wisconsin,55065,Lafayette,2020,22
+55,Wisconsin,55065,Lafayette,2021,31
+55,Wisconsin,55065,Lafayette,2022,32
+55,Wisconsin,55067,Langlade,2020,29
+55,Wisconsin,55067,Langlade,2021,45
+55,Wisconsin,55067,Langlade,2022,40
+55,Wisconsin,55069,Lincoln,2020,73
+55,Wisconsin,55069,Lincoln,2021,85
+55,Wisconsin,55069,Lincoln,2022,48
+55,Wisconsin,55071,Manitowoc,2020,174
+55,Wisconsin,55071,Manitowoc,2021,174
+55,Wisconsin,55071,Manitowoc,2022,150
+55,Wisconsin,55073,Marathon,2020,189
+55,Wisconsin,55073,Marathon,2021,189
+55,Wisconsin,55073,Marathon,2022,191
+55,Wisconsin,55075,Marinette,2020,51
+55,Wisconsin,55075,Marinette,2021,85
+55,Wisconsin,55075,Marinette,2022,53
+55,Wisconsin,55077,Marquette,2020,21
+55,Wisconsin,55077,Marquette,2021,28
+55,Wisconsin,55077,Marquette,2022,32
+55,Wisconsin,55078,Menominee,2020,15
+55,Wisconsin,55078,Menominee,2021,26
+55,Wisconsin,55078,Menominee,2022,17
+55,Wisconsin,55079,Milwaukee,2020,4806
+55,Wisconsin,55079,Milwaukee,2021,5814
+55,Wisconsin,55079,Milwaukee,2022,5980
+55,Wisconsin,55081,Monroe,2020,80
+55,Wisconsin,55081,Monroe,2021,96
+55,Wisconsin,55081,Monroe,2022,125
+55,Wisconsin,55083,Oconto,2020,34
+55,Wisconsin,55083,Oconto,2021,65
+55,Wisconsin,55083,Oconto,2022,63
+55,Wisconsin,55085,Oneida,2020,47
+55,Wisconsin,55085,Oneida,2021,65
+55,Wisconsin,55085,Oneida,2022,69
+55,Wisconsin,55087,Outagamie,2020,256
+55,Wisconsin,55087,Outagamie,2021,290
+55,Wisconsin,55087,Outagamie,2022,278
+55,Wisconsin,55089,Ozaukee,2020,89
+55,Wisconsin,55089,Ozaukee,2021,78
+55,Wisconsin,55089,Ozaukee,2022,115
+55,Wisconsin,55091,Pepin,2020,19
+55,Wisconsin,55091,Pepin,2021,19
+55,Wisconsin,55091,Pepin,2022,9
+55,Wisconsin,55093,Pierce,2020,71
+55,Wisconsin,55093,Pierce,2021,72
+55,Wisconsin,55093,Pierce,2022,87
+55,Wisconsin,55095,Polk,2020,74
+55,Wisconsin,55095,Polk,2021,77
+55,Wisconsin,55095,Polk,2022,78
+55,Wisconsin,55097,Portage,2020,140
+55,Wisconsin,55097,Portage,2021,156
+55,Wisconsin,55097,Portage,2022,165
+55,Wisconsin,55099,Price,2020,21
+55,Wisconsin,55099,Price,2021,30
+55,Wisconsin,55099,Price,2022,31
+55,Wisconsin,55101,Racine,2020,738
+55,Wisconsin,55101,Racine,2021,877
+55,Wisconsin,55101,Racine,2022,917
+55,Wisconsin,55103,Richland,2020,43
+55,Wisconsin,55103,Richland,2021,57
+55,Wisconsin,55103,Richland,2022,66
+55,Wisconsin,55105,Rock,2020,459
+55,Wisconsin,55105,Rock,2021,559
+55,Wisconsin,55105,Rock,2022,548
+55,Wisconsin,55107,Rusk,2020,35
+55,Wisconsin,55107,Rusk,2021,52
+55,Wisconsin,55107,Rusk,2022,55
+55,Wisconsin,55111,Sauk,2020,108
+55,Wisconsin,55111,Sauk,2021,137
+55,Wisconsin,55111,Sauk,2022,167
+55,Wisconsin,55113,Sawyer,2020,23
+55,Wisconsin,55113,Sawyer,2021,58
+55,Wisconsin,55113,Sawyer,2022,51
+55,Wisconsin,55115,Shawano,2020,69
+55,Wisconsin,55115,Shawano,2021,80
+55,Wisconsin,55115,Shawano,2022,79
+55,Wisconsin,55117,Sheboygan,2020,161
+55,Wisconsin,55117,Sheboygan,2021,231
+55,Wisconsin,55117,Sheboygan,2022,237
+55,Wisconsin,55109,St. Croix,2020,87
+55,Wisconsin,55109,St. Croix,2021,131
+55,Wisconsin,55109,St. Croix,2022,148
+55,Wisconsin,55119,Taylor,2020,29
+55,Wisconsin,55119,Taylor,2021,47
+55,Wisconsin,55119,Taylor,2022,41
+55,Wisconsin,55121,Trempealeau,2020,21
+55,Wisconsin,55121,Trempealeau,2021,54
+55,Wisconsin,55121,Trempealeau,2022,42
+55,Wisconsin,55123,Vernon,2020,52
+55,Wisconsin,55123,Vernon,2021,42
+55,Wisconsin,55123,Vernon,2022,83
+55,Wisconsin,55125,Vilas,2020,43
+55,Wisconsin,55125,Vilas,2021,36
+55,Wisconsin,55125,Vilas,2022,42
+55,Wisconsin,55127,Walworth,2020,170
+55,Wisconsin,55127,Walworth,2021,191
+55,Wisconsin,55127,Walworth,2022,193
+55,Wisconsin,55129,Washburn,2020,28
+55,Wisconsin,55129,Washburn,2021,52
+55,Wisconsin,55129,Washburn,2022,62
+55,Wisconsin,55131,Washington,2020,146
+55,Wisconsin,55131,Washington,2021,149
+55,Wisconsin,55131,Washington,2022,181
+55,Wisconsin,55133,Waukesha,2020,439
+55,Wisconsin,55133,Waukesha,2021,511
+55,Wisconsin,55133,Waukesha,2022,618
+55,Wisconsin,55135,Waupaca,2020,115
+55,Wisconsin,55135,Waupaca,2021,155
+55,Wisconsin,55135,Waupaca,2022,129
+55,Wisconsin,55137,Waushara,2020,51
+55,Wisconsin,55137,Waushara,2021,61
+55,Wisconsin,55137,Waushara,2022,51
+55,Wisconsin,55139,Winnebago,2020,339
+55,Wisconsin,55139,Winnebago,2021,348
+55,Wisconsin,55139,Winnebago,2022,396
+55,Wisconsin,55141,Wood,2020,106
+55,Wisconsin,55141,Wood,2021,109
+55,Wisconsin,55141,Wood,2022,154

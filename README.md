@@ -2,6 +2,9 @@
 
 This project explores the relationship between air quality and asthma-related emergency room visits in the United States from 2020 to 2022. It investigates whether counties experiencing poor air quality—with most extreme values due to wildfire activity—also saw elevated rates of asthma emergencies.
 
+![CDC's AQI Index diagram](images/aqi_scale.png)
+
+
 ### Data Sources
 
 -   **EPA Outdoor Air Quality Data**\
@@ -26,43 +29,56 @@ This project explores the relationship between air quality and asthma-related em
 -   Analysis conducted with SQL queries in VS Code
 -   Key query: identifying counties with the highest asthma ER visits and comparing them to peak AQI levels during wildfire-heavy years
 
-### Repository Structure
 
-This repository contains all scripts, data, and resources used to explore the relationship between air quality and asthma emergency room visits in U.S. counties from 2020–2022. It was developed for the course **EDS 213: Data Management** at **UC Santa Barbara**.
+### File and Database Structure
+
+This repository contains all scripts, data, and resources used to create a asthma-AQI database and explore the relationship between air quality and asthma emergency room visits in U.S. counties from 2020–2022. The repository was developed for the course **EDS 213: Data Management** at **UC Santa Barbara**.
 
 ------------------------------------------------------------------------
 
 #### Files
 
--   `data_exploration_and_cleaning.Rmd` / `.html`\
-    R Markdown document and rendered HTML for cleaning, QA/QC, and exploratory checks.
-
--   `create-database-asthma-emergencies.sql`\
-    SQL script used to define tables, enforce constraints, and load cleaned data into DuckDB.
-
--   `dependencies.txt`\
-    Summary of R version and package dependencies.
-
--   `renv.lock`\
-    Auto-generated lockfile capturing package versions used.
-
--   `README.md`\
-    Project overview, data sources, usage instructions, and structure.
-
--   `eds_213_database_proj.Rproj`\
-    RStudio project file.
+```
+├── .gitignore
+├── .Rprofile
+├── create-database-asthma-emergencies.sql     # SQL schema and data loading script
+├── data/
+│   ├── raw/                                    # Original datasets (unmodified)
+│   │   ├── annual_aqi_by_county_2020.csv
+│   │   ├── annual_aqi_by_county_2021.csv
+│   │   ├── annual_aqi_by_county_2022.csv
+│   │   ├── annual_asthma_emergencies_county_2020_2022.csv
+│   │   └── asthma_metadata.htm
+│
+│   └── processed/                              # Cleaned and final analysis files
+│       ├── annual_aqi_clean.csv
+│       ├── asthma_emergencies_clean.csv
+│       └── asthma_aqi_data_2020_2022.duckdb    # Final DuckDB database
+│
+├── data_exploration_and_cleaning.Rmd          # R Markdown for data cleaning and EDA
+├── dependencies.txt                            # Environment and package requirements
+├── eds_213_database_proj.Rproj                 # RStudio project file
+├── query.sql                                   # Final SQL analysis query
+├── README.md                                   # Project overview and documentation
+├── renv/                                       # R environment folder (not tracked by Git)
+└── renv.lock                                   # Lockfile with exact R package versions
+```
 
 ------------------------------------------------------------------------
 
-#### Folders
+#### Database Schema
 
--   `data/`\
-    Contains cleaned CSVs and the final DuckDB database:
-    -   `asthma_emergencies_clean.csv`\
-    -   `annual_aqi_clean.csv`\
-    -   `asthma_aqi_data_2020_2022.duckdb`
--   `renv/`\
-    `renv` package environment folder (excluded from version control).
+![Database's schema](images/schema.png)
+
+## Author
+
+Kaiju Morquecho
+
+Master of Environmental Data Science Student
+
+Bren School of Environmental Science and Management
+
+kaimorquecho@bren.ucsb.edu
 
 ## Acknowledgments
 

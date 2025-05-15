@@ -1,7 +1,12 @@
 ---
 title: "Data Exploration and Cleaning"
 author: "Kaiju Morquecho"
-output: html_document
+output: 
+  html_document:
+    theme: darkly
+    toc: true
+    toc_depth: 2
+    df_print: paged
 ---
 
 # Load Libraries
@@ -11,7 +16,6 @@ library(here)
 library(janitor) 
 library(lubridate)
 ```
-
 
 # Read in data 
 ```{r message=FALSE}

@@ -1,13 +1,22 @@
 # U.S Asthma and Air Quality Database (2020–2022)
 
-This project explores the relationship between air quality and asthma-related emergency room visits in the United States from 2020 to 2022. It investigates whether counties experiencing poor air quality—often due to wildfire activity—also saw elevated rates of asthma emergencies.
+This project explores the relationship between air quality and asthma-related emergency room visits in the United States from 2020 to 2022. It investigates whether counties experiencing poor air quality—with most extreme values due to wildfire activity—also saw elevated rates of asthma emergencies.
 
 ### Data Sources
 
 -   **EPA Outdoor Air Quality Data**\
     <https://www.epa.gov/outdoor-air-quality-data>
+    -   Pre-generated data files can be downloaded by going to the Annual Summary Data table, AQI by County column, and clicking on desired years' zip file.
 -   **CDC Environmental Public Health Tracking Network**\
     <https://ephtracking.cdc.gov/DataExplorer/>
+    -   Desired data is queried via the Query Panel
+        -   Under 'Content'
+            -   Select 'Asthma'
+            -   Select 'Emergency Department Visits For Asthma'
+            -   Select 'Annual Number of Emergency Department Visits for Asthma'
+        -   Under 'Geography Type' select 'National By County'
+        -   Under 'Time' select 2020, 2021, and 2022.
+    -   Download file
 
 ### Methods
 

@@ -7,10 +7,8 @@ output: html_document
 # Load Libraries
 ```{r message=FALSE}
 library(tidyverse)
-library(dplyr)
-library(ggplot2)
 library(here)
-library(janitor)
+library(janitor) 
 library(lubridate)
 ```
 
@@ -22,7 +20,7 @@ asthma_emergencies <- read_csv(here("data","annual_asthma_emergencies_county_202
   select(-data_comment, -x8) # drop unnecessary cols
 
 annual_county_aqi_2020 <- read_csv(here("data","annual_aqi_by_county_2020.csv")) %>%
-  clean_names()
+  clean_names() 
 
 annual_county_aqi_2021 <- read_csv(here("data","annual_aqi_by_county_2021.csv")) %>%
   clean_names()
@@ -88,22 +86,9 @@ annual_aqi %>%
 # identify states covered by both dfs 
 intersect(annual_aqi$county, asthma_emergencies$county) # 515
 ```
-# Clean asthma_emergencies dataset
+# Clean datasets
 
-### 'state' and 'county' column
-```{r}
-# trim off whitespace, if any, for county and state
-asthma_emergencies <- asthma_emergencies %>%
-  mutate(state = str_trim(str_to_title(state)),
-         county = str_trim(str_to_title(county)))
-
-annual_aqi <- annual_aqi %>%
-  mutate(state = str_trim(str_to_title(state)),
-         county = str_trim(str_to_title(county)))
-```
-
-
-### 'value' column
+### 'value' column in asthma_emergencies
 ```{r}
 # check class of 'value' col
 class(asthma_emergencies$value) # need to change class from char to numeric 
@@ -136,29 +121,98 @@ asthma_emergencies <- asthma_emergencies %>%
 class(asthma_emergencies$er_visits) # numeric
 ```
 
-### 'year' column
+### 'county_fips' and 'state_fips' columns in asthma_emergencies
 ```{r}
-# coerce 'year' from numeric to date 
-asthma_emergencies$year <- as.Date.numeric(asthma_emergencies$year)
+# county_fips
+class(asthma_emergencies$county_fips) # char, leave as is to protect leading 0s
 
-# recheck class 
-class(asthma_emergencies$year) # now class is date
+# check if any NAs
+sum(is.na(asthma_emergencies$county_fips)) # 0
+
+
+# state_fips
+class(asthma_emergencies$state_fips) # char, leave as is to protect leading 0s
+
+# check if any NAs
+sum(is.na(asthma_emergencies$state_fips)) # 0
+```
+### 'state' and 'county' columns (in both)
+```{r}
+# trim off whitespace, if any, for county and state
+asthma_emergencies <- asthma_emergencies %>%
+  mutate(state = str_trim(str_to_title(state)),
+         county = str_trim(str_to_title(county)))
+
+annual_aqi <- annual_aqi %>%
+  mutate(state = str_trim(str_to_title(state)),
+         county = str_trim(str_to_title(county)))
 ```
 
-### Check for total of NAs
+### 'year' column (in both)
+```{r}
+# class 
+class(asthma_emergencies$year) # numeric, leaving as is for robustness
+
+class(annual_aqi$year) # numeric, leaving as is for robustness
+
+```
+### Check for total of NAs (in both)
 ```{r}
 sum(is.na(asthma_emergencies)) # 0 NAs
+
+sum(is.na(annual_aqi)) # 0 NAs
+
 ```
 
-# Clean asthma_emergencies dataset
-
-
-
+### Check all 15 numeric cols for NAs, negatives, and max # days
 ```{r}
-# ingest into database 
-# 
+# Check for NAs in numeric columns
+annual_aqi %>%
+  summarise(across(where(is.numeric), ~ sum(is.na(.))))  # 0 NA 
+
+# Check for negative values in numeric columns
+annual_aqi %>%
+  summarise(across(where(is.numeric), ~ sum(. < 0, na.rm = TRUE)))  # no negative values
+
+# check max values in cols where max and min should be 0 - 366 because unit is days out of a year
+annual_aqi %>%
+  summarise(across((contains('days')), ~ max(., na.rm = TRUE))) %>%
+  count()
+
+# drop row > 366 
+annual_aqi <- annual_aqi %>%
+  filter(if_all(contains("day"), ~ . <= 366))
+
+```
 
 
+
+### 'max_aqi' col in annual_aqi
+```{r}
+summary(annual_aqi)
+
+# AQI is categorized up to 500, 500 > is beyond AQI scale but not impossible  
+# all rows with max_aqi > 500
+high_aqi <- annual_aqi %>% filter(max_aqi > 500) 
+
+# states with max_aqi between 500 and 3000
+high_aqi %>%
+  filter(max_aqi <= 3000) %>% 
+  
+  # of those above 500, all but 1 row are below 3000. 
+  # states with AQIs between 500 and 3000 experience       
+  # severe wildfires every year
+  
+  count(state, sort = TRUE)
+
+
+# drop the one outlier, row that is > 3000. # one row = 3000, an AQI this high (8368) is likely an error 
+
+annual_aqi <- annual_aqi %>%
+  filter(max_aqi <= 3000 )
+
+# recheck row was dropped
+annual_aqi %>% filter(max_aqi > 3000)
 
 ```
 

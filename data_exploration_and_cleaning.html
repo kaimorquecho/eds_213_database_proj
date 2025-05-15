@@ -364,17 +364,17 @@ library(lubridate)</code></pre>
 </div>
 <div id="read-in-data" class="section level1">
 <h1>Read in data</h1>
-<pre class="r"><code>asthma_emergencies &lt;- read_csv(here(&quot;data&quot;,&quot;annual_asthma_emergencies_county_2020_2021_2022.csv&quot;)) %&gt;%
+<pre class="r"><code>asthma_emergencies &lt;- read_csv(here(&quot;data&quot;,&quot;raw&quot;, &quot;annual_asthma_emergencies_county_2020_2021_2022.csv&quot;)) %&gt;%
   clean_names() %&gt;%
   select(-data_comment, -x8) # drop unnecessary cols
 
-annual_county_aqi_2020 &lt;- read_csv(here(&quot;data&quot;,&quot;annual_aqi_by_county_2020.csv&quot;)) %&gt;%
+annual_county_aqi_2020 &lt;- read_csv(here(&quot;data&quot;,&quot;raw&quot;,&quot;annual_aqi_by_county_2020.csv&quot;)) %&gt;%
   clean_names() 
 
-annual_county_aqi_2021 &lt;- read_csv(here(&quot;data&quot;,&quot;annual_aqi_by_county_2021.csv&quot;)) %&gt;%
+annual_county_aqi_2021 &lt;- read_csv(here(&quot;data&quot;,&quot;raw&quot;,&quot;annual_aqi_by_county_2021.csv&quot;)) %&gt;%
   clean_names()
 
-annual_county_aqi_2022 &lt;- read_csv(here(&quot;data&quot;,&quot;annual_aqi_by_county_2022.csv&quot;)) %&gt;%
+annual_county_aqi_2022 &lt;- read_csv(here(&quot;data&quot;,&quot;raw&quot;,&quot;annual_aqi_by_county_2022.csv&quot;)) %&gt;%
   clean_names()</code></pre>
 </div>
 <div id="bind-2020-2021-and-2022-aqi-datasets" class="section level1">
@@ -846,6 +846,11 @@ annual_aqi %&gt;% filter(max_aqi &gt; 3000)</code></pre>
 ## #   x90th_percentile_aqi &lt;dbl&gt;, median_aqi &lt;dbl&gt;, days_co &lt;dbl&gt;,
 ## #   days_no2 &lt;dbl&gt;, days_ozone &lt;dbl&gt;, days_pm2_5 &lt;dbl&gt;, days_pm10 &lt;dbl&gt;</code></pre>
 </div>
+</div>
+<div id="save-cleaned-files" class="section level1">
+<h1>Save cleaned files</h1>
+<pre class="r"><code>write_csv(asthma_emergencies, here(&quot;data&quot;, &quot;processed&quot;, &quot;asthma_emergencies_clean.csv&quot;))
+write_csv(annual_aqi, here(&quot;data&quot;, &quot;processed&quot;, &quot;annual_aqi_clean.csv&quot;))</code></pre>
 </div>
 
 

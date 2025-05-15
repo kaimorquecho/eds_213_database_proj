@@ -1,0 +1,17 @@
+ENVIRONMENTS AND DEPENDENCIES FOR THIS PROJECT
+
+R version >= 4.2.0
+
+Environment managed using: renv 
+
+Packages used:
+- tidyverse: for data wrangling and visualization 
+- janitor: for cleaning column names
+- here: for relative paths
+- lubridate: for coercing date columns
+- renv: for environment management and reproducibility 
+
+To use renv and reproduce environment for this project:
+
+1) Open R project directory 
+2) Run renv::restore() 

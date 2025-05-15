@@ -4,20 +4,22 @@ author: "Kaiju Morquecho"
 output: html_document
 ---
 
+# Load Libraries
 ```{r message=FALSE}
 library(tidyverse)
 library(dplyr)
+library(ggplot2)
 library(here)
 library(janitor)
 library(lubridate)
 ```
 
-Read in Data 
 
+# Read in data 
 ```{r message=FALSE}
-asthma_emergencies <- read_csv(here("data","annual_asthma_emergencies_by_county_2020_2021_2022.csv")) %>%
+asthma_emergencies <- read_csv(here("data","annual_asthma_emergencies_county_2020_2021_2022.csv")) %>%
   clean_names() %>%
-  select(-data_comment, -x8)
+  select(-data_comment, -x8) # drop unnecessary cols
 
 annual_county_aqi_2020 <- read_csv(here("data","annual_aqi_by_county_2020.csv")) %>%
   clean_names()
@@ -30,6 +32,7 @@ annual_county_aqi_2022 <- read_csv(here("data","annual_aqi_by_county_2022.csv"))
 
 ```
 
+# Bind 2020, 2021 and 2022 AQI datasets 
 ```{r}
 # bind all 3 years into one df
 annual_aqi <- bind_rows(
@@ -39,9 +42,134 @@ annual_aqi <- bind_rows(
 )
 ```
 
+# Take a quick look at datasets
 ```{r}
-# join asthma with aqi df
-asthma_aqi <- right_join(annual_aqi,asthma_emergencies, by = c("county","year","state"))
+glimpse(annual_aqi)
+glimpse(asthma_emergencies)
+
+
+# check for immediately obvious NAs or blanks
+asthma_emergencies %>% filter(is.na(state) | state == "")
+asthma_emergencies %>% filter(is.na(county) | county == "")
+
+annual_aqi %>% filter(is.na(county) | county == "")
+annual_aqi %>% filter(is.na(state) | state == "")
 
 ```
+
+# Check geographic extent of each dataset
+```{r}
+# state
+asthma_emergencies %>%
+  select(state) %>%
+  unique() %>%
+  nrow() # 27 states
+
+annual_aqi %>%
+  select(state) %>%
+  unique() %>%
+  nrow() # all states and 4 territories
+
+# identify states covered by both dfs
+intersect(annual_aqi$state, asthma_emergencies$state)  # 25
+
+
+# county 
+asthma_emergencies %>%
+  select(county) %>%
+  unique() %>%
+  nrow() # 995 counties covered
+
+annual_aqi %>%
+  select(county) %>%
+  unique() %>%
+  nrow() # 789 counties covered
+
+# identify states covered by both dfs 
+intersect(annual_aqi$county, asthma_emergencies$county) # 515
+```
+# Clean asthma_emergencies dataset
+
+### 'state' and 'county' column
+```{r}
+# trim off whitespace, if any, for county and state
+asthma_emergencies <- asthma_emergencies %>%
+  mutate(state = str_trim(str_to_title(state)),
+         county = str_trim(str_to_title(county)))
+
+annual_aqi <- annual_aqi %>%
+  mutate(state = str_trim(str_to_title(state)),
+         county = str_trim(str_to_title(county)))
+```
+
+
+### 'value' column
+```{r}
+# check class of 'value' col
+class(asthma_emergencies$value) # need to change class from char to numeric 
+
+# fix issues with 'value' column first - remove "," and "suppressed"
+sum(str_detect(asthma_emergencies$value, ",")) # 265 rows written as 123,45 --> should be 12345
+
+asthma_emergencies <- asthma_emergencies %>%
+  mutate(value = str_remove(value, ","))
+
+# recheck for commas
+sum(str_detect(asthma_emergencies$value, ",")) # now 0
+
+# check how many rows with 'suppressed'
+sum(asthma_emergencies$value == 'Suppressed') # 260 
+
+# filter out 'Suppressed' since no value can be recovered and row otherwise not useful
+asthma_emergencies <- asthma_emergencies %>%
+  filter(!value == "Suppressed")
+
+# recheck 'Suppressed' is gone
+sum(asthma_emergencies$value == 'Suppressed') # now 0 
+
+# rename col with # of ashtma ER visits from 'value' to something meaningful and coerce from class character to numeric
+asthma_emergencies <- asthma_emergencies %>%
+  mutate(value = as.numeric(value)) %>%
+  rename(er_visits = value)
+
+# recheck class 
+class(asthma_emergencies$er_visits) # numeric
+```
+
+### 'year' column
+```{r}
+# coerce 'year' from numeric to date 
+asthma_emergencies$year <- as.Date.numeric(asthma_emergencies$year)
+
+# recheck class 
+class(asthma_emergencies$year) # now class is date
+```
+
+### Check for total of NAs
+```{r}
+sum(is.na(asthma_emergencies)) # 0 NAs
+```
+
+# Clean asthma_emergencies dataset
+
+
+
+```{r}
+# ingest into database 
+# 
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
 

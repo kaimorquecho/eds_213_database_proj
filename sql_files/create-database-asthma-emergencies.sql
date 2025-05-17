@@ -10,7 +10,7 @@ CREATE TABLE asthma_emergencies (
     county_fips VARCHAR
         CHECK (length(county_fips) = 5),
     county VARCHAR NOT NULL,
-    year INTEGER NOT NULL,  -- ✅ comma added
+    year INTEGER NOT NULL,  
     er_visits INTEGER NOT NULL 
         CHECK (er_visits >= 0),
     PRIMARY KEY (state, county, year)
@@ -24,7 +24,7 @@ FROM 'data/processed/asthma_emergencies_clean.csv'
 CREATE TABLE annual_aqi (
     state VARCHAR NOT NULL,
     county VARCHAR NOT NULL,
-    year INTEGER NOT NULL,  -- ✅ comma added
+    year INTEGER NOT NULL,  
     days_with_aqi INTEGER
         CHECK (days_with_aqi BETWEEN 0 AND 366),
     good_days INTEGER

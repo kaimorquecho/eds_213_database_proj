@@ -56,8 +56,8 @@ This repository contains all scripts, data, and resources used to create a asthm
 │       ├── asthma_emergencies_clean.csv
 │       └── asthma_aqi_data_2020_2022.duckdb    # Final DuckDB database
 │
-├── data_exploration_and_cleaning.Rmd          # R Markdown for data cleaning and EDA
-├── dependencies.txt                            # Environment and package requirements
+├── data_exploration_and_cleaning.Rmd           # R Markdown for data cleaning and EDA
+├── environment_dependencies.txt                            # Environment and package requirements
 ├── eds_213_database_proj.Rproj                 # RStudio project file
 ├── query.sql                                   # Final SQL analysis query
 ├── README.md                                   # Project overview and documentation
